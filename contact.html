@@ -1095,7 +1095,7 @@ function ptsFor(t,dur,streak,mode){
 ═══════════════════════════════════════════════════════════════ */
 var NET={sb:null};
 function lmConfig(){
-  var c=(typeof MANGA_CONFIG!=="undefined")?MANGA_CONFIG:null;
+  var c=(typeof MANGA_CONFIG!=="undefined")?MANGA_CONFIG:((typeof LORE_CONFIG!=="undefined")?LORE_CONFIG:null);
   if(!c||!c.SUPABASE_URL||!c.SUPABASE_ANON_KEY)return null;
   var u=String(c.SUPABASE_URL).trim(),k=String(c.SUPABASE_ANON_KEY).trim();
   if(!/^https:\/\/[a-z0-9-]+\.supabase\.(co|in|net)\/?$/i.test(u)&&!/^https?:\/\/(localhost|127\.0\.0\.1)(:\d+)?\/?$/.test(u))return {bad:"url",url:u};

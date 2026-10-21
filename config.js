@@ -9,7 +9,8 @@
    La clé anon / publishable est publique par conception : elle peut figurer ici.
    Ne collez JAMAIS la clé « service_role » ni une clé « secret ».
 ═══════════════════════════════════════════════════════════════ */
-var LORE_CONFIG = {
+var MANGA_CONFIG = {
   SUPABASE_URL: "https://zfqzvwpjxmrlctxsmxch.supabase.co",
   SUPABASE_ANON_KEY: "sb_publishable_21JhJbzpINsSzFdD0oGqUw_BL_AtgSA"
 };
+var LORE_CONFIG = MANGA_CONFIG; /* ancien nom, gardé pour compatibilité */
