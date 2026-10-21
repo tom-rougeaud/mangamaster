@@ -7,7 +7,7 @@
 --  Ce que la base conserve :
 --   • mm_rooms   : les dojos ouverts (salles) (code à 4 caractères, mode, état).
 --                  Supprimées automatiquement 4 h après la dernière activité.
---   • mm_players : les pseudos des nakamas connectés à un dojo (30 au maximum).
+--   • mm_players : les pseudos des apprenti(e)s connectés à un dojo (30 au maximum).
 --                  Supprimés avec la salle.
 --   • mm_results : le bilan pseudonyme des parties terminées, rattaché à la
 --                  « clé du Sensei » (stockée hachée). Supprimé après 30 jours.
@@ -126,7 +126,7 @@ begin
   return json_build_object('ok', true, 'code', v_code, 'token', v_tok);
 end $$;
 
--- Code saisi sur la page joueur : dojo, accès du Sensei (mode Nakamas VS Sensei) ou rien.
+-- Code saisi sur la page joueur : dojo, accès du Sensei (mode Apprenti(e)s VS Sensei) ou rien.
 create or replace function public.mm_check(p_code text) returns json
 language plpgsql security definer set search_path = public as $$
 declare r mm_rooms;
@@ -141,7 +141,7 @@ begin
 end $$;
 
 -- Battement de cœur du Sensei : garde la salle en vie, change son état,
--- renvoie les nakamas réellement présents.
+-- renvoie les apprenti(e)s réellement présents.
 create or replace function public.mm_host_ping(p_code text, p_token uuid, p_status text default null, p_mode text default null) returns json
 language plpgsql security definer set search_path = public as $$
 declare r mm_rooms;
@@ -174,7 +174,7 @@ begin
   return json_build_object('ok', found);
 end $$;
 
--- ─── Nakamas ───────────────────────────────────────────────────────
+-- ─── Apprenti(e)s ───────────────────────────────────────────────────────
 -- Rejoindre : vérifie la salle, la limite (30 au plus), le pseudo libre.
 -- p_player : identifiant déjà attribué (reconnexion après une coupure).
 create or replace function public.mm_join(p_code text, p_pseudo text, p_player uuid default null) returns json
@@ -202,7 +202,7 @@ begin
 
   if r.status = 'ended' then return json_build_object('ok', false, 'err', 'ended'); end if;   -- (v1.10 : un joueur déjà inscrit peut revenir après la fin)
 
-  -- places libérées par les nakamas partis sans prévenir
+  -- places libérées par les apprenti(e)s partis sans prévenir
   delete from mm_players where room_code = r.code and last_seen < now() - interval '2 minutes';
 
   select count(*) into v_n from mm_players where room_code = r.code;

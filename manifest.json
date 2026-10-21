@@ -1,7 +1,7 @@
 {
   "name": "Manga Master",
   "short_name": "Manga Master",
-  "description": "Quiz manga et anime en direct : un Sensei, des nakamas, un dojo.",
+  "description": "Quiz manga et anime en direct : un Sensei, des apprenti(e)s, un dojo.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
