@@ -1,4 +1,4 @@
-# À vérifier — fiabilité des réponses (Manga Master v0.7.1)
+# À vérifier — fiabilité des réponses (Manga Master)
 
 Audit de la banque de 7 329 questions. Méthode :
 
@@ -29,3 +29,8 @@ Le détail est aussi dans `questions-a-verifier.csv` (ouvrable dans Excel/LibreO
 | i5-005 / hb8-007 | habitant-de-linfini | Qu’est-ce qui rend Manji immortel ? | À vérifier | Deux formulations différentes pour la même réponse (kessen-chū). | Harmoniser (« vers sacrés ») |
 | va-017 / w5-010 | manga-vs-anime | Pages d’un chapitre hebdomadaire | À vérifier | Valeur indicative, deux réponses différentes. | Garder la fourchette 17–20 seulement |
 | g7 / titres-fr-vs-jp / autres | tous thèmes | Dates de sortie, éditeurs, studios, magazines | Non vérifié ligne à ligne | Le reste a été contrôlé uniquement par cohérence interne (réponse/explication/doublons), pas contre une source externe. | Relecture humaine souhaitée |
+
+
+## Ajout v0.8.0 : 18 thèmes transversaux
+
+Les 18 thèmes transversaux (Esprit shōnen, Méchants et rivalités, Sciences, Isekai, Sport, Yōkai, Magical girls, Cuisine-métiers-école, Pouvoirs, Armes, Tropes, Japon, Mascottes, Jeux vidéo, Horreur, Romance, Histoire du Japon, Musique) sont rédigés par IA et **n’ont pas été recoupés ligne à ligne** avec des sources externes : tous marqués « probable ». Une relecture humaine est la bienvenue, surtout pour les dates, auteurs et studios.
