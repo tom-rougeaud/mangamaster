@@ -14,3 +14,7 @@ d5-034 / dd-019;doublage-et-diffusion;En quelle année ADN est-il lancé ?;2013 
 i5-005 / hb8-007;habitant-de-linfini;Qu’est-ce qui rend Manji immortel ?;vers sanguins / vers sacrés;À vérifier;Deux formulations différentes pour la même réponse (kessen-chū).;Harmoniser (« vers sacrés »)
 va-017 / w5-010;manga-vs-anime;Pages d’un chapitre hebdomadaire;19 / 17 à 20;À vérifier;Valeur indicative, deux réponses différentes.;Garder la fourchette 17–20 seulement
 g7 / titres-fr-vs-jp / autres;tous thèmes;Dates de sortie, éditeurs, studios, magazines;—;Non vérifié ligne à ligne;Le reste a été contrôlé uniquement par cohérence interne (réponse/explication/doublons), pas contre une source externe.;Relecture humaine souhaitée
+d5-034 / dd-019;doublage-et-diffusion;En quelle année ADN est-il lancé ?;2013;CORRIGÉ v0.9.0;ADN lancé en 2013 (Livres Hebdo). La question à 2014 est supprimée.;Réponse = 2013
+e5-047;editeurs-manga;Lesquelles de ces séries sont publiées par Glénat ?;(supprimée);CORRIGÉ v0.9.0;Bleach est publié par Glénat, la question le donnait comme intrus.;Supprimée
+sm-018;sailor-moon;Combien de tomes compte le manga Sailor Moon ?;(supprimée);RETIRÉE v0.9.0;12 ou 18 tomes selon l’édition.;Supprimée
+va-017;manga-vs-anime;Pages d’un chapitre hebdomadaire;(supprimée);RETIRÉE v0.9.0;Valeur non fiable.;Supprimée

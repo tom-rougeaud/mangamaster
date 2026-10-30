@@ -34,3 +34,27 @@ Le détail est aussi dans `questions-a-verifier.csv` (ouvrable dans Excel/LibreO
 ## Ajout v0.8.0 : 18 thèmes transversaux
 
 Les 18 thèmes transversaux (Esprit shōnen, Méchants et rivalités, Sciences, Isekai, Sport, Yōkai, Magical girls, Cuisine-métiers-école, Pouvoirs, Armes, Tropes, Japon, Mascottes, Jeux vidéo, Horreur, Romance, Histoire du Japon, Musique) sont rédigés par IA et **n’ont pas été recoupés ligne à ligne** avec des sources externes : tous marqués « probable ». Une relecture humaine est la bienvenue, surtout pour les dates, auteurs et studios.
+
+## Mise à jour v0.9.0 — qualité des questions (octobre 2026)
+
+La banque passe de 6 954 à **5 341 questions** : on préfère moins de questions, mais sans répétition ni réponse évidente.
+
+**Ce qui a été fait**
+- **Répétitions dans une même série** : environ 1 500 questions posant le même fait sous une autre forme (QCM + vrai/faux + texte à trous + « Qui suis-je ? ») ont été supprimées. On garde la forme la plus riche.
+- **Réponse contenue dans la question** (par ex. « Quel esprit habite la forêt de Mon voisin Totoro ? → Totoro ») : une centaine de questions retirées ou réécrites. Les indices « Je m’appelle X » des « Qui suis-je ? » ont été remplacés par de vrais indices.
+- **Réponses trop évidentes** : « Naruto » ou « Dragon Ball » servaient d’intrus dans une centaine de questions « lequel n’est pas… ? » : remplacés par des intrus plausibles du même domaine. Les bonnes réponses nettement plus longues que les autres ont été rééquilibrées (une centaine de questions).
+- **Vrai/faux à indices** (« toujours », « uniquement », « jamais »…) retirés.
+
+**Vérifications externes faites cette fois** (Wikipédia, presse spécialisée)
+| Point | Résultat |
+|---|---|
+| Lancement d’ADN (Anime Digital Network) | 2013 confirmé (Livres Hebdo). La question qui disait 2014 (d5-034) est supprimée. |
+| Éditeur français de Dr. Stone | Glénat (confirmé). |
+| Éditeur français de Bleach | Glénat : la question e5-047 le classait à tort comme non-Glénat, elle est supprimée. |
+| « Rewrite » (Asian Kung-Fu Generation) | Quatrième opening de Fullmetal Alchemist (2003) : exact. |
+| Studio de l’anime Orange | Telecom Animation Film (production TMS Entertainment), 13 épisodes ; manga lancé en 2012 : exact. |
+| Sailor Moon : nombre de tomes | Ambigu (12 ou 18 selon l’édition) : question retirée. |
+| Pages d’un chapitre hebdomadaire | Valeur non fiable : question retirée. |
+| Niveaux de Super Saiyan dans le manga | Formulation ambiguë : question retirée. |
+
+**Reste non recoupé** : les dates, auteurs et studios de la grande majorité des questions n’ont été contrôlés que par cohérence interne, et par ma connaissance générale pour les années de début/fin des séries (toutes relues une à une). Une relecture humaine reste utile.
