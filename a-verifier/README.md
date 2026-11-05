@@ -58,3 +58,33 @@ La banque passe de 6 954 à **5 341 questions** : on préfère moins de question
 | Niveaux de Super Saiyan dans le manga | Formulation ambiguë : question retirée. |
 
 **Reste non recoupé** : les dates, auteurs et studios de la grande majorité des questions n’ont été contrôlés que par cohérence interne, et par ma connaissance générale pour les années de début/fin des séries (toutes relues une à une). Une relecture humaine reste utile.
+
+
+## Mise à jour v0.10.0 — 13 nouveaux thèmes (novembre 2026)
+
+**+516 questions** (banque : 5 857 questions, 96 thèmes) et un nouveau royaume, « Shōnen : combats et magie ».
+
+| Thème | Questions | Dont recoupées (Wikipédia) |
+|---|---|---|
+| Seven Deadly Sins | 47 | 42 |
+| Record of Ragnarok (Valkyrie Apocalypse) | 42 | 36 |
+| Fairy Tail | 43 | 20 |
+| Black Clover | 34 | 20 |
+| Soul Eater et Fire Force | 43 | 30 |
+| Gintama | 34 | 17 |
+| Assassination Classroom | 35 | 21 |
+| Yu Yu Hakusho | 41 | 26 |
+| La vague Jump+ (Chainsaw Man, Spy × Family, Dandadan, Kaiju No. 8, Sakamoto Days) | 51 | 45 |
+| Kingdom (Seinen) | 37 | 33 |
+| Junji Itō (Seinen, thème sombre) | 43 | 31 |
+| Overlord (Isekai) | 35 | 23 |
+| Dungeon Meshi (Isekai/fantasy) | 31 | 27 |
+
+**Méthode** : les faits marqués « vérifié » (371 questions) viennent des pages Wikipédia consultées pendant ce travail (dates, magazines, studios, prix, nombre de tomes ou d’épisodes). Les 145 autres sont « probables » : ce sont surtout des faits sur les personnages (équipes, pouvoirs, liens entre personnages) tirés de ma connaissance générale, non recoupés ligne à ligne. Leur liste est dans `nouveaux-themes-v0.10.0-probables.csv`.
+
+**Points de prudence**
+- Les séries toujours en cours (Kingdom, Record of Ragnarok) n’ont aucune question sur le nombre de tomes, qui changerait vite.
+- Black Clover est terminé (mai 2026) : les questions le traitent comme tel.
+- Éditeurs français (Pika, Kazé, Kurokawa…) : non vérifiés sur les pages consultées, sauf Kana pour Yu Yu Hakusho. À recouper avant d’en faire une règle.
+- Le titre français « Valkyrie Apocalypse » vient de ta demande ; il n’a pas été recoupé avec un éditeur.
+- Les thèmes sont plus petits (31 à 51 questions) que les thèmes historiques (50 à 70) : les séries ont été choisies pour la variété, pas pour la profondeur.
