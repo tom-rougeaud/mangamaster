@@ -1,0 +1,514 @@
+﻿id;theme;type;question;statut
+cx01-006;heros-sans-don;qcm;Quel élève de My Hero Academia est né sans Alter ?;probable : à recouper
+cx01-007;heros-sans-don;qcm;De qui Izuku Midoriya reçoit-il le One For All ?;probable : à recouper
+cx01-008;heros-sans-don;qcm;Quel scientifique de Dr. Stone n’a aucun pouvoir, mais utilise la science ?;probable : à recouper
+cx01-015;heros-sans-don;vf;Izuku Midoriya est né sans Alter.;probable : à recouper
+cx01-016;heros-sans-don;vf;Senku utilise des pouvoirs magiques dans Dr. Stone.;probable : à recouper
+cx01-023;heros-sans-don;intrus;Lequel de ces personnages possède un don surnaturel inné ?;probable : à recouper
+cx01-024;heros-sans-don;multi;Lesquels de ces héros ne doivent leur force qu’à l’entraînement ou au savoir ? (plusieurs bonnes réponses);probable : à recouper
+cx01-028;heros-sans-don;qui;Qui suis-je ? 1. Je suis un jeune homme rêveur. 2. Je suis né sans Alter. 3. J’admire un héros blond.;probable : à recouper
+cx01-029;heros-sans-don;qui;Qui suis-je ? 1. Je suis un scientifique. 2. Je ne possède aucun pouvoir. 3. Je veux reconstruire la civilisation.;probable : à recouper
+cx14-004;heros-sans-don;qcm;Quelle mécanicienne répare les automails d’Edward ?;probable : à recouper
+cx14-006;heros-sans-don;qcm;Quelle héroïne du film Silent Voice (Koe no Katachi) est sourde ?;probable : à recouper
+cx14-007;heros-sans-don;qcm;Qui est l’auteur de Silent Voice ?;probable : à recouper
+cx14-008;heros-sans-don;qcm;Quel studio a produit le film Silent Voice ?;probable : à recouper
+cx14-009;heros-sans-don;qcm;Quel héros de Dororo naît sans plusieurs parties de son corps ?;probable : à recouper
+cx14-010;heros-sans-don;qcm;Qui est l’auteur de Dororo ?;probable : à recouper
+cx14-011;heros-sans-don;qcm;Quel bras de Guts est remplacé par une prothèse dans Berserk ?;probable : à recouper
+cx14-012;heros-sans-don;qcm;Qui crée la prothèse de bras de Guts ?;probable : à recouper
+cx14-013;heros-sans-don;qcm;Quel héros de Tokyo Ghoul perd son humanité après une greffe d’organes ?;probable : à recouper
+cx14-016;heros-sans-don;vf;Shōko Nishimiya est sourde.;probable : à recouper
+cx14-017;heros-sans-don;vf;Hyakkimaru est un enfant sans handicap.;probable : à recouper
+cx14-018;heros-sans-don;vf;Winry Rockbell est mécanicienne.;probable : à recouper
+cx14-019;heros-sans-don;slider;En quelle année Silent Voice sort-il au cinéma au Japon ?;probable : à recouper
+cx14-020;heros-sans-don;intrus;Lequel de ces personnages n’a perdu aucun membre ?;probable : à recouper
+cx14-023;heros-sans-don;ordre;Remets ces œuvres dans l’ordre de début de publication.;probable : à recouper
+cx14-025;heros-sans-don;qui;Qui suis-je ? 1. Je suis une jeune fille. 2. Je suis sourde. 3. On m’a harcelée à l’école.;probable : à recouper
+cx08-001;orphelins-familles-amities;qcm;Quels sont les parents de Naruto Uzumaki ?;probable : à recouper
+cx08-002;orphelins-familles-amities;qcm;Quelle famille a été exterminée dans l’enfance de Sasuke ?;probable : à recouper
+cx08-004;orphelins-familles-amities;qcm;Dans quel endroit Asta et Yuno ont-ils été abandonnés bébés ?;probable : à recouper
+cx08-005;orphelins-familles-amities;qcm;Quel héros de Rurouni Kenshin est un ancien assassin devenu orphelin ?;probable : à recouper
+cx08-006;orphelins-familles-amities;qcm;Quelle fillette de Spy × Family est adoptée par Loid Forger ?;probable : à recouper
+cx08-007;orphelins-familles-amities;qcm;Qui est l’épouse de Loid dans Spy × Family ?;probable : à recouper
+cx08-010;orphelins-familles-amities;qcm;Quel héros de Demon Slayer perd sa famille avant le début de l’histoire ?;probable : à recouper
+cx08-011;orphelins-familles-amities;qcm;Quel héros de Hunter × Hunter est élevé par sa tante ?;probable : à recouper
+cx08-012;orphelins-familles-amities;qcm;Quel est le nom de la tante de Gon ?;probable : à recouper
+cx08-013;orphelins-familles-amities;qcm;Quel boxeur élevé par sa mère après la mort de son père est le héros de Hajime no Ippo ?;probable : à recouper
+cx08-014;orphelins-familles-amities;vf;Naruto a perdu ses parents le jour de sa naissance.;probable : à recouper
+cx08-016;orphelins-familles-amities;vf;Anya est la fille biologique de Loid.;probable : à recouper
+cx08-018;orphelins-familles-amities;vf;Asta a été élevé par sa famille biologique.;probable : à recouper
+cx08-019;orphelins-familles-amities;slider;Quel âge Ippo a-t-il au début de la série ?;probable : à recouper
+cx08-020;orphelins-familles-amities;intrus;Lequel de ces personnages n’est pas orphelin ?;probable : à recouper
+cx08-021;orphelins-familles-amities;multi;Lesquels de ces héros ont perdu leurs parents jeunes ? (plusieurs bonnes réponses);probable : à recouper
+cx08-023;orphelins-familles-amities;ordre;Remets ces séries dans l’ordre de début de publication.;probable : à recouper
+cx08-024;orphelins-familles-amities;qui;Qui suis-je ? 1. Je suis un enfant blond. 2. Mes parents sont morts le jour de ma naissance. 3. Je rêve de devenir Hokage.;probable : à recouper
+cx08-025;orphelins-familles-amities;qui;Qui suis-je ? 1. Je suis une fillette télépathe. 2. J’ai été adoptée. 3. J’aime les cacahuètes.;probable : à recouper
+cx24-003;orphelins-familles-amities;qcm;Quel est le métier officiel de Yor Forger ?;probable : à recouper
+cx24-004;orphelins-familles-amities;qcm;Quel pouvoir possède la fillette de la famille Forger ?;probable : à recouper
+cx24-005;orphelins-familles-amities;qcm;Quelle famille de Fruits Basket est frappée par la malédiction du zodiaque ?;probable : à recouper
+cx24-006;orphelins-familles-amities;qcm;Quelle lycéenne de Fruits Basket est hébergée par la famille Sōma ?;probable : à recouper
+cx24-007;orphelins-familles-amities;qcm;En quel animal Kyō Sōma se transforme-t-il dans Fruits Basket ?;probable : à recouper
+cx24-008;orphelins-familles-amities;qcm;Combien de membres compte l’équipage de Luffy après Wano ?;probable : à recouper
+cx24-009;orphelins-familles-amities;qcm;Qui est le capitaine de l’équipage du Chapeau de paille ?;probable : à recouper
+cx24-010;orphelins-familles-amities;qcm;Quel musicien squelette rejoint l’équipage de Luffy ?;probable : à recouper
+cx24-011;orphelins-familles-amities;qcm;Quel charpentier cyborg construit le Thousand Sunny ?;probable : à recouper
+cx24-012;orphelins-familles-amities;qcm;Quel homme-poisson devient le timonier de Luffy ?;probable : à recouper
+cx24-015;orphelins-familles-amities;qcm;Quel couple forment Vegeta et Bulma dans Dragon Ball ?;probable : à recouper
+cx24-016;orphelins-familles-amities;qcm;Quels enfants Goku a-t-il avec Chi-Chi ?;probable : à recouper
+cx24-017;orphelins-familles-amities;qcm;Quelle fillette aux cheveux verts est l’héroïne de Yotsuba&! ?;probable : à recouper
+cx24-018;orphelins-familles-amities;qcm;Quel oncle recueille une petite fille dans Usagi Drop ?;probable : à recouper
+cx24-019;orphelins-familles-amities;qcm;Quels deux amis d’enfance sont rivaux dans My Hero Academia ?;probable : à recouper
+cx24-020;orphelins-familles-amities;vf;La famille Forger est une vraie famille.;probable : à recouper
+cx24-022;orphelins-familles-amities;intrus;Lequel de ces duos n’est pas un duo d’amis ?;probable : à recouper
+cx24-023;orphelins-familles-amities;multi;Lesquels de ces personnages font partie de l’équipage de Luffy ? (plusieurs bonnes réponses);probable : à recouper
+cx02-001;cheveux-blancs;qcm;Quel professeur de Naruto, célèbre pour son masque, a les cheveux argentés ?;probable : à recouper
+cx02-005;cheveux-blancs;qcm;Quel professeur de Jujutsu Kaisen porte un bandeau sur les yeux et a les cheveux blancs ?;probable : à recouper
+cx02-007;cheveux-blancs;qcm;Quel assassin de Hunter × Hunter a des cheveux blancs ébouriffés ?;probable : à recouper
+cx02-011;cheveux-blancs;qcm;Quel samouraï de Gintama a les cheveux argentés ?;probable : à recouper
+cx02-015;cheveux-blancs;qcm;Quel personnage de Yu Yu Hakusho a des cheveux argentés sous sa forme de démon renard ?;probable : à recouper
+cx02-019;cheveux-blancs;intrus;Lequel de ces personnages n’a pas les cheveux blancs ou argentés ?;probable : à recouper
+cx02-020;cheveux-blancs;multi;Lesquels de ces personnages ont les cheveux blancs ou argentés ? (plusieurs bonnes réponses);probable : à recouper
+cx02-022;cheveux-blancs;qui;Qui suis-je ? 1. Je porte un bandeau sur les yeux. 2. Je suis le professeur le plus fort. 3. Mes cheveux sont blancs.;probable : à recouper
+cx02-023;cheveux-blancs;qui;Qui suis-je ? 1. Je suis un jeune assassin. 2. Je suis très rapide. 3. Mon meilleur ami est un garçon aux cheveux noirs.;probable : à recouper
+cx29-001;cheveux-blancs;qcm;Quel demi-frère d’Inuyasha a de longs cheveux argentés ?;probable : à recouper
+cx29-002;cheveux-blancs;qcm;Quel personnage de Tokyo Ghoul voit ses cheveux devenir blancs après une épreuve ?;probable : à recouper
+cx29-003;cheveux-blancs;qcm;Quel pirate de One Piece est surnommé « Barbe-Blanche » ?;probable : à recouper
+cx29-004;cheveux-blancs;qcm;Quel ermite de Naruto a de longs cheveux blancs ?;probable : à recouper
+cx29-005;cheveux-blancs;intrus;Lequel de ces personnages n’a pas les cheveux argentés ou blancs ?;probable : à recouper
+cx29-006;cheveux-blancs;qcm;Quel élève de My Hero Academia a des cheveux moitié rouges, moitié blancs ?;probable : à recouper
+cx29-007;cheveux-blancs;qcm;Quel capitaine de Bleach aux longs cheveux blancs dirige la treizième division ?;probable : à recouper
+cx29-008;cheveux-blancs;qcm;Quel Hashira de Demon Slayer a des cheveux blancs et le visage couvert de cicatrices ?;probable : à recouper
+cx29-009;cheveux-blancs;qcm;Quelle mage de Fairy Tail aux cheveux blancs utilise la magie Take Over ?;probable : à recouper
+cx29-010;cheveux-blancs;intrus;Lequel de ces personnages n’a pas les cheveux argentés ou blancs ?;probable : à recouper
+cx29-011;cheveux-blancs;qcm;Quel personnage de Death Note, successeur de L, a les cheveux blancs et joue avec des jouets ?;probable : à recouper
+cx03-003;demons-et-compagnons;qcm;Quel démon de Yu Yu Hakusho possède un troisième œil appelé Jagan ?;probable : à recouper
+cx03-004;demons-et-compagnons;qcm;Qui est le premier démon de Demon Slayer ?;probable : à recouper
+cx03-005;demons-et-compagnons;qcm;Que devient Nezuko après l’attaque de sa famille ?;probable : à recouper
+cx03-006;demons-et-compagnons;qcm;Que porte Nezuko à la bouche ?;probable : à recouper
+cx03-007;demons-et-compagnons;qcm;Quelle est la plus grande faiblesse des démons de Demon Slayer ?;probable : à recouper
+cx03-009;demons-et-compagnons;qcm;Quel personnage de Chainsaw Man recrute Denji au sein de la Sécurité publique ?;probable : à recouper
+cx03-010;demons-et-compagnons;qcm;Quel majordome de Black Butler est un démon lié par un contrat ?;probable : à recouper
+cx03-011;demons-et-compagnons;qcm;Quel exorciste de Blue Exorcist est le fils de Satan ?;probable : à recouper
+cx03-012;demons-et-compagnons;qcm;Quel est le nom de l’épée démoniaque de Rin Okumura ?;probable : à recouper
+cx03-013;demons-et-compagnons;qcm;Qui est le demi-démon chien du manga de Rumiko Takahashi ?;probable : à recouper
+cx03-014;demons-et-compagnons;qcm;Quel auteur a créé Devilman ?;probable : à recouper
+cx03-015;demons-et-compagnons;qcm;Quel prince démon de Seven Deadly Sins est le capitaine de la Colère ?;probable : à recouper
+cx03-017;demons-et-compagnons;vf;Nezuko est la petite sœur de Tanjirō.;probable : à recouper
+cx03-020;demons-et-compagnons;vf;Rin Okumura est le fils de Satan.;probable : à recouper
+cx03-021;demons-et-compagnons;intrus;Lequel de ces personnages n’est pas un démon ?;probable : à recouper
+cx03-024;demons-et-compagnons;ordre;Remets ces séries dans l’ordre de début de publication.;probable : à recouper
+cx03-026;demons-et-compagnons;qui;Qui suis-je ? 1. Je suis un majordome parfait. 2. Je suis lié par un contrat. 3. Mon maître est un jeune comte.;probable : à recouper
+cx03-027;demons-et-compagnons;qui;Qui suis-je ? 1. Je suis le fils du diable. 2. Mes flammes sont bleues. 3. Je suis exorciste.;probable : à recouper
+cx19-001;demons-et-compagnons;qcm;Quel renne médecin rejoint l’équipage de Luffy ?;probable : à recouper
+cx19-002;demons-et-compagnons;qcm;Quel chat bleu volant accompagne Natsu dans Fairy Tail ?;probable : à recouper
+cx19-004;demons-et-compagnons;qcm;Quel chien de ninja suit Kakashi ?;probable : à recouper
+cx19-005;demons-et-compagnons;qcm;Quel chien de Cowboy Bebop est un corgi de données ?;probable : à recouper
+cx19-007;demons-et-compagnons;qcm;Quel chat noir de Sailor Moon est le guide de Usagi ?;probable : à recouper
+cx19-008;demons-et-compagnons;qcm;Quel chat blanc accompagne Minako dans Sailor Moon ?;probable : à recouper
+cx19-009;demons-et-compagnons;qcm;Quel chat noir de Kiki la petite sorcière parle avec sa maîtresse ?;probable : à recouper
+cx19-010;demons-et-compagnons;qcm;Quel petit animal blanc de Madoka Magica propose un contrat ?;probable : à recouper
+cx19-011;demons-et-compagnons;qcm;Quel personnage de Bleach est un lion en peluche ?;probable : à recouper
+cx19-012;demons-et-compagnons;qcm;Quelle chatte de Bleach se transforme en femme ?;probable : à recouper
+cx19-013;demons-et-compagnons;qcm;Quel personnage de Berserk est un petit elfe compagnon de Guts ?;probable : à recouper
+cx19-014;demons-et-compagnons;qcm;Quelle créature de Digimon est le partenaire de Tai ?;probable : à recouper
+cx19-015;demons-et-compagnons;qcm;Quel Pokémon accompagne Sacha dans l’anime ?;probable : à recouper
+cx19-016;demons-et-compagnons;qcm;Quel renard à neuf queues est scellé dans Naruto ?;probable : à recouper
+cx19-017;demons-et-compagnons;qcm;Quel démon à une queue est scellé dans Gaara ?;probable : à recouper
+cx19-018;demons-et-compagnons;qcm;Quel esprit stellaire de Lucy ressemble à un petit chien blanc ?;probable : à recouper
+cx19-020;demons-et-compagnons;vf;Ein est un chat dans Cowboy Bebop.;probable : à recouper
+cx19-021;demons-et-compagnons;slider;Combien de queues possède Kurama dans Naruto ?;probable : à recouper
+cx19-022;demons-et-compagnons;intrus;Lequel de ces animaux n’est pas un chien ?;probable : à recouper
+cx19-023;demons-et-compagnons;multi;Lesquels de ces compagnons sont des chats ? (plusieurs bonnes réponses);probable : à recouper
+cx19-024;demons-et-compagnons;assoc;Associe chaque compagnon à son héros.;probable : à recouper
+cx19-025;demons-et-compagnons;qui;Qui suis-je ? 1. Je suis un renne. 2. Je suis médecin. 3. Je suis un pirate.;probable : à recouper
+cx19-026;demons-et-compagnons;qui;Qui suis-je ? 1. Je suis un chat noir. 2. Je guide une jeune guerrière. 3. Mon front porte un croissant.;probable : à recouper
+cx04-001;mentors-et-professeurs;qcm;Qui est le maître de Naruto durant son entraînement de trois ans ?;probable : à recouper
+cx04-004;mentors-et-professeurs;qcm;Quel maître de Dragon Ball entraîne Son Goku et Krilin ?;probable : à recouper
+cx04-005;mentors-et-professeurs;qcm;Quel maître entraîne Goku sur une planète minuscule après sa mort ?;probable : à recouper
+cx04-008;mentors-et-professeurs;qcm;Quel instructeur de Black Clover guide Asta ?;probable : à recouper
+cx04-009;mentors-et-professeurs;qcm;Qui est le maître de Goku dans la série Dragon Ball Super ?;probable : à recouper
+cx04-010;mentors-et-professeurs;qcm;Quel maître entraîne Edward et Alphonse Elric ?;probable : à recouper
+cx04-011;mentors-et-professeurs;qcm;Quel maître apprend à Gon et Killua les bases du Nen aux arènes célestes ?;probable : à recouper
+cx04-012;mentors-et-professeurs;qcm;Qui est le président de l’Association des Hunters au début de l’histoire ?;probable : à recouper
+cx04-013;mentors-et-professeurs;qcm;Qui forme Zoro pendant deux ans après la bataille de Marineford ?;probable : à recouper
+cx04-014;mentors-et-professeurs;qcm;Qui forme Luffy à l’Haki sur Rusukaina ?;probable : à recouper
+cx04-017;mentors-et-professeurs;intrus;Lequel de ces personnages n’est pas un mentor ?;probable : à recouper
+cx04-018;mentors-et-professeurs;multi;Lesquels de ces personnages sont des professeurs ? (plusieurs bonnes réponses);probable : à recouper
+cx04-020;mentors-et-professeurs;qui;Qui suis-je ? 1. Je suis un ninja masqué. 2. J’enseigne à l’équipe 7. 3. Mes cheveux sont argentés.;probable : à recouper
+cx04-021;mentors-et-professeurs;qui;Qui suis-je ? 1. Je suis un vieil ermite pervers. 2. Je suis un des trois Sannin. 3. J’ai formé le futur Hokage.;probable : à recouper
+cx25-001;mentors-et-professeurs;qcm;Quel professeur de Assassination Classroom est une créature jaune ?;probable : à recouper
+cx25-002;mentors-et-professeurs;qcm;Quelle classe Koro-sensei enseigne-t-il ?;probable : à recouper
+cx25-003;mentors-et-professeurs;qcm;Quel professeur de My Hero Academia dirige la classe 1-A ?;probable : à recouper
+cx25-004;mentors-et-professeurs;qcm;Quel enseignant de Great Teacher Onizuka est un ancien chef de gang ?;probable : à recouper
+cx25-005;mentors-et-professeurs;qcm;Quel professeur de l’Académie ninja de Konoha enseigne à Naruto ?;probable : à recouper
+cx25-006;mentors-et-professeurs;qcm;Quel directeur du lycée de Tokyo est un spécialiste des poupées maudites ?;probable : à recouper
+cx25-007;mentors-et-professeurs;qcm;Quel professeur de Gintama est celui qui a formé Gintoki ?;probable : à recouper
+cx25-008;mentors-et-professeurs;qcm;Quel maître de Black Clover dirige le Magic Knights ?;probable : à recouper
+cx25-009;mentors-et-professeurs;qcm;Quelle sorcière de Little Witch Academia enseigne à Luna Nova ?;probable : à recouper
+cx25-013;mentors-et-professeurs;assoc;Associe chaque professeur à son œuvre.;probable : à recouper
+cx25-014;mentors-et-professeurs;qui;Qui suis-je ? 1. Je suis un professeur extraterrestre. 2. J’ai des tentacules. 3. Mes élèves veulent me tuer.;probable : à recouper
+cx25-015;mentors-et-professeurs;qui;Qui suis-je ? 1. Je suis un enseignant délinquant. 2. Je suis un ancien chef de gang. 3. Je sauve mes élèves.;probable : à recouper
+cx05-001;rivaux-et-anti-heros;qcm;Quel rival de Naruto appartient au clan Uchiha ?;probable : à recouper
+cx05-002;rivaux-et-anti-heros;qcm;Dans quel lieu Naruto et Sasuke s’affrontent-ils lors de leur premier duel majeur ?;probable : à recouper
+cx05-003;rivaux-et-anti-heros;qcm;Quel prince des Saiyans est le grand rival de Goku ?;probable : à recouper
+cx05-005;rivaux-et-anti-heros;qcm;Quel rival de Sakuragi est un as de basket dans Slam Dunk ?;probable : à recouper
+cx05-006;rivaux-et-anti-heros;qcm;Qui est le rival de Light Yagami dans Death Note ?;probable : à recouper
+cx05-007;rivaux-et-anti-heros;qcm;Quel camarade d’enfance est le rival d’Izuku Midoriya ?;probable : à recouper
+cx05-013;rivaux-et-anti-heros;qcm;Quel adversaire d’Ichigo dans Bleach est le capitaine de la sixième division ?;probable : à recouper
+cx05-014;rivaux-et-anti-heros;qcm;Quel adversaire principal de Luffy dans Water Seven travaille pour le CP9 ?;probable : à recouper
+cx05-015;rivaux-et-anti-heros;qcm;Quel rival de Rin Itoshi est le héros principal de Blue Lock ?;probable : à recouper
+cx05-016;rivaux-et-anti-heros;qcm;Quel grand frère de Rin Itoshi joue au football à l’étranger ?;probable : à recouper
+cx05-020;rivaux-et-anti-heros;intrus;Lequel de ces personnages n’est pas un rival du héros de sa série ?;probable : à recouper
+cx05-022;rivaux-et-anti-heros;assoc;Associe chaque héros à son grand rival.;probable : à recouper
+cx05-023;rivaux-et-anti-heros;ordre;Remets ces séries dans l’ordre de début de publication.;probable : à recouper
+cx05-024;rivaux-et-anti-heros;qui;Qui suis-je ? 1. Je suis le dernier survivant d’un clan. 2. Je veux devenir plus fort. 3. Mon rival est un ninja blond.;probable : à recouper
+cx05-025;rivaux-et-anti-heros;qui;Qui suis-je ? 1. Je suis un prince guerrier. 2. Je suis très fier. 3. Mon rival est un Saiyan élevé sur Terre.;probable : à recouper
+cx06-001;rivaux-et-anti-heros;qcm;Quel guerrier de Berserk est surnommé le « Guerrier noir » ?;probable : à recouper
+cx06-004;rivaux-et-anti-heros;qcm;Quel nom Light adopte-t-il pour juger les criminels ?;probable : à recouper
+cx06-005;rivaux-et-anti-heros;qcm;Quel est le pseudonyme du détective qui traque Kira ?;probable : à recouper
+cx06-006;rivaux-et-anti-heros;qcm;Quel étudiant de Code Geass obtient un pouvoir d’obéissance absolue ?;probable : à recouper
+cx06-007;rivaux-et-anti-heros;qcm;Quel pouvoir Lelouch obtient-il grâce à C.C. ?;probable : à recouper
+cx06-008;rivaux-et-anti-heros;qcm;Quel studio produit Code Geass ?;probable : à recouper
+cx06-009;rivaux-et-anti-heros;qcm;Quel chasseur de primes de Cowboy Bebop est un ancien membre d’un syndicat ?;probable : à recouper
+cx06-010;rivaux-et-anti-heros;qcm;Quel est le nom du vaisseau de Spike et Jet ?;probable : à recouper
+cx06-012;rivaux-et-anti-heros;qcm;Quel héros de Vinland Saga cherche d’abord à venger son père ?;probable : à recouper
+cx06-013;rivaux-et-anti-heros;qcm;Quel chef de bande vikings tue le père de Thorfinn ?;probable : à recouper
+cx06-014;rivaux-et-anti-heros;qcm;Quel gentleman de Hellsing est un vampire tout-puissant ?;probable : à recouper
+cx06-015;rivaux-et-anti-heros;qcm;Quel justicier de Fullmetal Alchemist est le « tueur d’alchimistes » ?;probable : à recouper
+cx06-016;rivaux-et-anti-heros;qcm;Quel jeune héros de Tokyo Ghoul perd son humanité après une greffe ?;probable : à recouper
+cx06-017;rivaux-et-anti-heros;vf;Spike Spiegel est chasseur de primes.;probable : à recouper
+cx06-019;rivaux-et-anti-heros;intrus;Lequel de ces personnages n’est pas un anti-héros ?;probable : à recouper
+cx06-020;rivaux-et-anti-heros;multi;Lesquels de ces personnages poursuivent un objectif moralement ambigu ? (plusieurs bonnes réponses);probable : à recouper
+cx06-021;rivaux-et-anti-heros;assoc;Associe chaque anti-héros à son œuvre.;probable : à recouper
+cx06-022;rivaux-et-anti-heros;ordre;Remets ces séries dans l’ordre de début.;probable : à recouper
+cx06-023;rivaux-et-anti-heros;qui;Qui suis-je ? 1. Je suis un mercenaire. 2. Mon épée est gigantesque. 3. J’ai perdu mon bras gauche.;probable : à recouper
+cx06-024;rivaux-et-anti-heros;qui;Qui suis-je ? 1. Je suis un étudiant brillant. 2. Je trouve un carnet noir. 3. Je me prends pour un dieu.;probable : à recouper
+cx06-025;rivaux-et-anti-heros;qui;Qui suis-je ? 1. Je suis un prince déchu. 2. Je porte un masque. 3. Je dirige l’Ordre des Chevaliers noirs.;probable : à recouper
+cx07-001;genies-et-strateges;qcm;Quel détective de Death Note résout ses enquêtes avec une logique redoutable ?;probable : à recouper
+cx07-002;genies-et-strateges;qcm;Quel ninja de Konoha possède un QI très élevé et joue au shōgi ?;probable : à recouper
+cx07-003;genies-et-strateges;qcm;Quel scientifique de Dr. Stone dirige la reconstruction de la civilisation ?;probable : à recouper
+cx07-004;genies-et-strateges;qcm;Quel stratège de L’Attaque des Titans élabore les plans de l’armée ?;probable : à recouper
+cx07-005;genies-et-strateges;qcm;Quel commandant de l’Attaque des Titans guide le bataillon d’exploration ?;probable : à recouper
+cx07-006;genies-et-strateges;qcm;Quel capitaine de Bleach prépare pendant des années un plan de trahison ?;probable : à recouper
+cx07-007;genies-et-strateges;qcm;Quel capitaine de Soul Society est un génie scientifique ?;probable : à recouper
+cx07-008;genies-et-strateges;qcm;Quel prince en exil de Code Geass est un joueur d’échecs hors pair ?;probable : à recouper
+cx07-009;genies-et-strateges;qcm;Quels élèves de Kaguya-sama s’affrontent dans une guerre psychologique ?;probable : à recouper
+cx07-010;genies-et-strateges;qcm;"Quel héros de Steins;Gate se prend pour un savant fou ?";probable : à recouper
+cx07-011;genies-et-strateges;qcm;"Quelle neurologue de Steins;Gate est une jeune génie ?";probable : à recouper
+cx07-012;genies-et-strateges;qcm;Quel jeune génie de Death Note succède à L ?;probable : à recouper
+cx07-013;genies-et-strateges;qcm;Quel navigateur de One Piece trace des cartes depuis l’enfance ?;probable : à recouper
+cx07-014;genies-et-strateges;qcm;Quel détective de Detective Conan résout des enquêtes malgré son corps d’enfant ?;probable : à recouper
+cx07-015;genies-et-strateges;vf;Senku est un guerrier dans Dr. Stone.;probable : à recouper
+cx07-016;genies-et-strateges;vf;Okabe est un détective.;probable : à recouper
+cx07-017;genies-et-strateges;slider;Quel âge a Conan Edogawa en apparence ?;probable : à recouper
+cx07-018;genies-et-strateges;intrus;Lequel de ces personnages n’est pas un génie ?;probable : à recouper
+cx07-019;genies-et-strateges;multi;Lesquels de ces personnages sont des stratèges ou des génies ? (plusieurs bonnes réponses);probable : à recouper
+cx07-020;genies-et-strateges;assoc;Associe chaque génie à son œuvre.;probable : à recouper
+cx07-021;genies-et-strateges;ordre;Remets ces séries dans l’ordre de début.;probable : à recouper
+cx07-022;genies-et-strateges;qui;Qui suis-je ? 1. Je suis un détective dont personne ne connaît le visage. 2. J’aime les gâteaux. 3. Je suis assis de façon bizarre.;probable : à recouper
+cx07-023;genies-et-strateges;qui;Qui suis-je ? 1. Je suis un jeune prince. 2. Mon pouvoir est le Geass. 3. Mon plan est une rébellion.;probable : à recouper
+cx07-024;genies-et-strateges;qui;Qui suis-je ? 1. Je suis un jeune scientifique. 2. Je compte en milliards de pourcents. 3. Je veux réinventer le monde.;probable : à recouper
+cx27-001;genies-et-strateges;qcm;Quel jeu de plateau est au cœur de Hikaru no Go ?;probable : à recouper
+cx27-002;genies-et-strateges;qcm;Quel esprit hante Hikaru dans Hikaru no Go ?;probable : à recouper
+cx27-003;genies-et-strateges;qcm;Quel est le rival d’Hikaru dans Hikaru no Go ?;probable : à recouper
+cx27-004;genies-et-strateges;qcm;Quel jeu de réflexion est au cœur de March Comes in Like a Lion ?;probable : à recouper
+cx27-005;genies-et-strateges;qcm;Qui est l’autrice de March Comes in Like a Lion ?;probable : à recouper
+cx27-006;genies-et-strateges;qcm;Quel héritier de L est accro au chocolat dans Death Note ?;probable : à recouper
+cx27-007;genies-et-strateges;qcm;Quel héritier de L joue avec des jouets et des puzzles ?;probable : à recouper
+cx27-008;genies-et-strateges;qcm;Quel élève de Classroom of the Elite se cache derrière une apparence banale ?;probable : à recouper
+cx27-009;genies-et-strateges;qcm;Quelle bataille de l’esprit oppose les deux surdoués de Kaguya-sama ?;probable : à recouper
+cx27-010;genies-et-strateges;vf;Le shōgi est un jeu de plateau japonais.;probable : à recouper
+cx27-011;genies-et-strateges;vf;Hikaru no Go parle de shōgi.;probable : à recouper
+cx27-012;genies-et-strateges;vf;Fujiwara no Sai est un fantôme maître de go.;probable : à recouper
+cx27-013;genies-et-strateges;slider;Combien d’intersections compte un goban standard ?;probable : à recouper
+cx27-014;genies-et-strateges;intrus;Lequel de ces jeux n’utilise pas de plateau ?;probable : à recouper
+cx09-003;sportifs-et-boxeurs;qcm;À quel sport joue Hanamichi Sakuragi ?;probable : à recouper
+cx09-004;sportifs-et-boxeurs;qcm;Quel héros de Blue Lock veut devenir le meilleur attaquant du monde ?;probable : à recouper
+cx09-005;sportifs-et-boxeurs;qcm;Quel footballeur de Captain Tsubasa porte le numéro 10 ?;probable : à recouper
+cx09-006;sportifs-et-boxeurs;qcm;Quel joueur de tennis est le héros de Prince of Tennis ?;probable : à recouper
+cx09-007;sportifs-et-boxeurs;qcm;Quel sport pratique Sena Kobayakawa dans Eyeshield 21 ?;probable : à recouper
+cx09-008;sportifs-et-boxeurs;qcm;À quel sport joue Gorō Honda dans Major ?;probable : à recouper
+cx09-009;sportifs-et-boxeurs;qcm;Quelle pratiquante de judo est l’héroïne de Yawara ?;probable : à recouper
+cx09-010;sportifs-et-boxeurs;qcm;Quel sport Chihaya Ayase pratique-t-elle dans Chihayafuru ?;probable : à recouper
+cx09-011;sportifs-et-boxeurs;qcm;Quel sport Makoto Tachibana pratique-t-il dans Free! ?;probable : à recouper
+cx09-012;sportifs-et-boxeurs;qcm;Quelle compétition motorisée est au cœur d’Initial D ?;probable : à recouper
+cx09-013;sportifs-et-boxeurs;qcm;Quel héros est un lanceur de baseball dans Diamond no Ace ?;probable : à recouper
+cx09-015;sportifs-et-boxeurs;qcm;Quelle équipe de Slam Dunk est le rival de Shōhoku ?;probable : à recouper
+cx09-016;sportifs-et-boxeurs;qcm;Quel poste Ryota Miyagi occupe-t-il à Shōhoku ?;probable : à recouper
+cx09-017;sportifs-et-boxeurs;qcm;Quel poste Takenori Akagi occupe-t-il à Shōhoku ?;probable : à recouper
+cx09-018;sportifs-et-boxeurs;vf;Sena Kobayakawa joue au baseball.;probable : à recouper
+cx09-019;sportifs-et-boxeurs;slider;Combien de joueurs une équipe de basket-ball aligne-t-elle sur le terrain ?;probable : à recouper
+cx09-020;sportifs-et-boxeurs;slider;Combien de joueurs compose une équipe de volley-ball sur le terrain ?;probable : à recouper
+cx10-007;sportifs-et-boxeurs;qcm;Quelle technique d’Ippo porte le nom d’un champion de boxe américain ?;probable : à recouper
+cx10-008;sportifs-et-boxeurs;qcm;Qui est le héros du manga Ashita no Joe ?;probable : à recouper
+cx10-009;sportifs-et-boxeurs;qcm;Quel entraîneur découvre Joe Yabuki dans les quartiers pauvres ?;probable : à recouper
+cx10-010;sportifs-et-boxeurs;qcm;Quel rival de Joe Yabuki est un boxeur très discipliné ?;probable : à recouper
+cx10-011;sportifs-et-boxeurs;qcm;Qui sont les auteurs d’Ashita no Joe ?;probable : à recouper
+cx10-012;sportifs-et-boxeurs;qcm;Dans quel magazine Ashita no Joe a-t-il été publié ?;probable : à recouper
+cx10-019;sportifs-et-boxeurs;intrus;Lequel de ces personnages n’est pas boxeur ?;probable : à recouper
+cx10-021;sportifs-et-boxeurs;assoc;Associe chaque œuvre à son auteur.;probable : à recouper
+cx10-022;sportifs-et-boxeurs;qui;Qui suis-je ? 1. Je suis un jeune boxeur. 2. J’ai appris à frapper avec un sac de sable. 3. Mon coup spécial est le Dempsey Roll.;probable : à recouper
+cx11-005;equipes-duos-capitaines;qcm;Quel joueur de la Génération des Miracles a des cheveux verts ?;probable : à recouper
+cx11-007;equipes-duos-capitaines;qcm;Quel talent de Blue Lock est un génie du contrôle de balle et du but ?;probable : à recouper
+cx11-008;equipes-duos-capitaines;qcm;Quel stratège dirige le projet Blue Lock ?;probable : à recouper
+cx11-020;equipes-duos-capitaines;qui;Qui suis-je ? 1. Je suis un joueur excentrique. 2. Je dribble de façon imprévisible. 3. Mon partenaire est un attaquant ambitieux.;probable : à recouper
+cx12-001;equipes-duos-capitaines;qcm;Quel capitaine de Shōhoku est surnommé « le Gorille » ?;probable : à recouper
+cx12-004;equipes-duos-capitaines;qcm;Qui est l’entraîneur principal de Karasuno ?;probable : à recouper
+cx12-008;equipes-duos-capitaines;qcm;Quelle entraîneuse dirige l’équipe de Seirin ?;probable : à recouper
+cx12-009;equipes-duos-capitaines;qcm;Qui est le capitaine de Seirin pendant la première saison ?;probable : à recouper
+cx12-010;equipes-duos-capitaines;qcm;Quel capitaine de Black Clover dirige les Black Bulls ?;probable : à recouper
+cx12-011;equipes-duos-capitaines;qcm;Quel capitaine dirige les Pirates du Roux dans One Piece ?;probable : à recouper
+cx12-012;equipes-duos-capitaines;qcm;Quel capitaine de Bleach dirige la première division ?;probable : à recouper
+cx13-001;arts-martiaux-et-epees;qcm;Qui est le fondateur du judo ?;probable : à recouper
+cx13-002;arts-martiaux-et-epees;qcm;Dans quel pays le karaté moderne est-il né ?;probable : à recouper
+cx13-003;arts-martiaux-et-epees;qcm;Quel est le nom de l’arme du kendo ?;probable : à recouper
+cx13-004;arts-martiaux-et-epees;qcm;Comment s’appelle l’aire de combat du sumo ?;probable : à recouper
+cx13-005;arts-martiaux-et-epees;qcm;Quel art martial a été fondé par Morihei Ueshiba ?;probable : à recouper
+cx13-006;arts-martiaux-et-epees;qcm;Comment s’appelle le tir à l’arc japonais ?;probable : à recouper
+cx13-007;arts-martiaux-et-epees;qcm;Quel héros de Kenichi apprend plusieurs arts martiaux auprès de maîtres ?;probable : à recouper
+cx13-008;arts-martiaux-et-epees;qcm;Quel style Kenshin Himura pratique-t-il ?;probable : à recouper
+cx13-009;arts-martiaux-et-epees;qcm;Quel ninja de Naruto maîtrise le taijutsu sans aucun ninjutsu ?;probable : à recouper
+cx13-010;arts-martiaux-et-epees;qcm;Quel sensei de Naruto utilise les Huit Portes ?;probable : à recouper
+cx13-011;arts-martiaux-et-epees;qcm;Quel maître enseigne le Kamehameha à Goku ?;probable : à recouper
+cx13-012;arts-martiaux-et-epees;qcm;Sous quel nom de héros Bang, le maître d’arts martiaux de One-Punch Man, est-il connu ?;probable : à recouper
+cx13-013;arts-martiaux-et-epees;qcm;Quel ancien élève de Bang est devenu son adversaire dans One-Punch Man ?;probable : à recouper
+cx13-014;arts-martiaux-et-epees;vf;Le judo a été fondé par Jigorō Kanō.;probable : à recouper
+cx13-015;arts-martiaux-et-epees;vf;Le kendo se pratique avec un shinai.;probable : à recouper
+cx13-016;arts-martiaux-et-epees;vf;Le karaté est né en Corée.;probable : à recouper
+cx13-017;arts-martiaux-et-epees;vf;L’aïkido a été créé par Gichin Funakoshi.;probable : à recouper
+cx13-018;arts-martiaux-et-epees;vf;Le sumo se pratique dans un dohyō.;probable : à recouper
+cx13-019;arts-martiaux-et-epees;slider;En quelle année Jigorō Kanō fonde-t-il le Kōdōkan ?;probable : à recouper
+cx13-020;arts-martiaux-et-epees;intrus;Lequel de ces arts martiaux n’est pas japonais ?;probable : à recouper
+cx13-021;arts-martiaux-et-epees;multi;Lesquels de ces arts martiaux viennent du Japon ? (plusieurs bonnes réponses);probable : à recouper
+cx13-022;arts-martiaux-et-epees;assoc;Associe chaque art martial à son arme ou à son équipement.;probable : à recouper
+cx13-023;arts-martiaux-et-epees;ordre;Remets ces séries d’arts martiaux dans l’ordre de début.;probable : à recouper
+cx13-024;arts-martiaux-et-epees;qui;Qui suis-je ? 1. Je suis le fondateur d’un art martial. 2. J’ai créé le judo. 3. J’ai fondé le Kōdōkan.;probable : à recouper
+cx13-025;arts-martiaux-et-epees;qui;Qui suis-je ? 1. Je suis un ninja ordinaire. 2. Je ne maîtrise que le taijutsu. 3. Je porte une combinaison verte.;probable : à recouper
+cx15-001;arts-martiaux-et-epees;qcm;Quel est le nom du zanpakutō d’Ichigo Kurosaki ?;probable : à recouper
+cx15-003;arts-martiaux-et-epees;qcm;Quel est le zanpakutō de Byakuya Kuchiki ?;probable : à recouper
+cx15-004;arts-martiaux-et-epees;qcm;Quel sabre de Zoro appartenait à son amie d’enfance Kuina ?;probable : à recouper
+cx15-005;arts-martiaux-et-epees;qcm;Quel sabre de Zoro est une lame maudite qui réclame du sang ?;probable : à recouper
+cx15-006;arts-martiaux-et-epees;qcm;Quelle épée emblématique de Rurouni Kenshin a la lame inversée ?;probable : à recouper
+cx15-007;arts-martiaux-et-epees;qcm;Quelle immense épée Guts manie-t-il dans Berserk ?;probable : à recouper
+cx15-008;arts-martiaux-et-epees;qcm;Quelle épée Sasuke manie-t-il souvent ?;probable : à recouper
+cx15-009;arts-martiaux-et-epees;qcm;Quelle épée gigantesque Zabuza utilise-t-il ?;probable : à recouper
+cx15-010;arts-martiaux-et-epees;qcm;Quelle épée de Naruto est aussi appelée « peau de requin » ?;probable : à recouper
+cx15-011;arts-martiaux-et-epees;qcm;Quelle épée de Tanjirō change de couleur ?;probable : à recouper
+cx15-012;arts-martiaux-et-epees;qcm;Comment s’appelle l’épée héritée d’Inuyasha ?;probable : à recouper
+cx15-013;arts-martiaux-et-epees;qcm;Quelle épée de Sesshōmaru peut ressusciter les morts ?;probable : à recouper
+cx15-014;arts-martiaux-et-epees;qcm;Quelle lame sombre appartient à Dracule Mihawk ?;probable : à recouper
+cx15-015;arts-martiaux-et-epees;qcm;Quel acier traditionnel sert à forger les katanas ?;probable : à recouper
+cx15-016;arts-martiaux-et-epees;qcm;Quel forgeron légendaire de l’époque de Kamakura est célèbre pour ses lames ?;probable : à recouper
+cx15-017;arts-martiaux-et-epees;qcm;Quel forgeron est réputé pour des lames dotées d’une malédiction ?;probable : à recouper
+cx15-018;arts-martiaux-et-epees;qcm;Comment appelle-t-on la paire katana et wakizashi portée par un samouraï ?;probable : à recouper
+cx15-019;arts-martiaux-et-epees;vf;Zoro manie trois sabres.;probable : à recouper
+cx15-020;arts-martiaux-et-epees;vf;Le sakabatō de Kenshin ne coupe pas.;probable : à recouper
+cx15-021;arts-martiaux-et-epees;vf;Le tantō est plus long que le katana.;probable : à recouper
+cx15-022;arts-martiaux-et-epees;vf;La Kusanagi est une épée de la mythologie japonaise.;probable : à recouper
+cx15-024;arts-martiaux-et-epees;slider;Combien de sabres Zoro tient-il en combat avec le style Santōryū ?;probable : à recouper
+cx15-026;arts-martiaux-et-epees;multi;Lesquelles de ces épées sont des sabres de One Piece ? (plusieurs bonnes réponses);probable : à recouper
+cx15-027;arts-martiaux-et-epees;assoc;Associe chaque épée à son porteur.;probable : à recouper
+cx15-029;arts-martiaux-et-epees;qui;Qui suis-je ? 1. Je suis un sabre. 2. Ma lame est inversée. 3. Mon porteur est un ancien assassin.;probable : à recouper
+cx16-001;techniques-et-elements;qcm;Quelle technique Goku lance-t-il en joignant ses mains ?;probable : à recouper
+cx16-002;techniques-et-elements;qcm;Quelle boule de chakra tourbillonnante Naruto invente-t-il ?;probable : à recouper
+cx16-003;techniques-et-elements;qcm;Quelle technique de foudre Sasuke utilise-t-il ?;probable : à recouper
+cx16-004;techniques-et-elements;qcm;Comment s’appelle la forme ultime du zanpakutō dans Bleach ?;probable : à recouper
+cx16-005;techniques-et-elements;qcm;Quelle attaque Ichigo lance-t-il avec Zangetsu ?;probable : à recouper
+cx16-006;techniques-et-elements;qcm;Quelle transformation dorée Goku obtient-il face à Freezer ?;probable : à recouper
+cx16-007;techniques-et-elements;qcm;Quelle technique Luffy emploie-t-il pour augmenter sa vitesse ?;probable : à recouper
+cx16-008;techniques-et-elements;qcm;Comment appelle-t-on la technique de Gon qui concentre son aura dans son poing ?;probable : à recouper
+cx16-009;techniques-et-elements;qcm;Quelles sont les trois formes du Jajanken ?;probable : à recouper
+cx16-012;techniques-et-elements;qcm;Comment s’appelle le champ qui rend Gojō intouchable ?;probable : à recouper
+cx16-013;techniques-et-elements;qcm;Quelle technique de Tanjirō utilise-t-il avec sa lame ?;probable : à recouper
+cx16-014;techniques-et-elements;qcm;Quel souffle Zenitsu maîtrise-t-il ?;probable : à recouper
+cx16-016;techniques-et-elements;qcm;Comment s’appelle le pouvoir hérité de Midoriya ?;probable : à recouper
+cx16-017;techniques-et-elements;qcm;Quelle technique Meliodas utilise-t-il en renvoyant les attaques ?;probable : à recouper
+cx16-018;techniques-et-elements;slider;En quelle année le Gear 5 de Luffy est-il animé pour la première fois ?;probable : à recouper
+cx16-019;techniques-et-elements;intrus;Laquelle de ces techniques n’appartient pas à Naruto ?;probable : à recouper
+cx16-020;techniques-et-elements;multi;Lesquelles de ces techniques viennent de Naruto ? (plusieurs bonnes réponses);probable : à recouper
+cx16-021;techniques-et-elements;assoc;Associe chaque technique à son héros.;probable : à recouper
+cx16-022;techniques-et-elements;ordre;Remets ces séries dans l’ordre de début.;probable : à recouper
+cx16-023;techniques-et-elements;qui;Qui suis-je ? 1. Je suis une technique de foudre. 2. Je suis rapide. 3. Mon maître est un ninja masqué.;probable : à recouper
+cx16-024;techniques-et-elements;qui;Qui suis-je ? 1. Je suis une transformation. 2. Mes cheveux deviennent dorés. 3. Je suis la fierté des Saiyans.;probable : à recouper
+cx16-025;techniques-et-elements;vf;Le Kamehameha a été créé par Tortue Géniale.;probable : à recouper
+cx16-026;techniques-et-elements;vf;Le Chidori a été inventé par Kakashi.;probable : à recouper
+cx16-027;techniques-et-elements;vf;Le Rasengan a été enseigné à Naruto par Kakashi.;probable : à recouper
+cx16-028;techniques-et-elements;vf;Le Bankai d’Ichigo s’appelle Tensa Zangetsu.;probable : à recouper
+cx16-029;techniques-et-elements;vf;Dans Fullmetal Alchemist, Roy Mustang utilise l’alchimie de l’eau.;probable : à recouper
+cx17-001;techniques-et-elements;qcm;Quel alchimiste d’État de Fullmetal Alchemist contrôle les flammes ?;probable : à recouper
+cx17-002;techniques-et-elements;qcm;Quel pirate de One Piece mange le fruit Mera Mera ?;probable : à recouper
+cx17-003;techniques-et-elements;qcm;Quel dragon slayer de Fairy Tail manie le feu ?;probable : à recouper
+cx17-004;techniques-et-elements;qcm;Quel héros de My Hero Academia possède à la fois la glace et le feu ?;probable : à recouper
+cx17-005;techniques-et-elements;qcm;Quel pilier de Demon Slayer maîtrise le souffle des flammes ?;probable : à recouper
+cx17-007;techniques-et-elements;qcm;Quel amiral de One Piece contrôle la glace ?;probable : à recouper
+cx17-008;techniques-et-elements;qcm;Quel amiral de One Piece contrôle le magma ?;probable : à recouper
+cx17-009;techniques-et-elements;qcm;Quel amiral de One Piece contrôle la lumière ?;probable : à recouper
+cx17-010;techniques-et-elements;qcm;Quel pirate de One Piece contrôle le sable ?;probable : à recouper
+cx17-011;techniques-et-elements;qcm;Quel ninja de Naruto contrôle le sable ?;probable : à recouper
+cx17-012;techniques-et-elements;qcm;Quel ninja de Naruto manipule les ombres ?;probable : à recouper
+cx17-013;techniques-et-elements;qcm;Quel prétendu dieu de Skypiea contrôle la foudre dans One Piece ?;probable : à recouper
+cx17-014;techniques-et-elements;qcm;Quel dragon slayer de la foudre est membre de Fairy Tail ?;probable : à recouper
+cx17-015;techniques-et-elements;qcm;Quel mage de glace de Fairy Tail possède le Ice-Make ?;probable : à recouper
+cx17-016;techniques-et-elements;qcm;Quel héros de Black Clover maîtrise le vent ?;probable : à recouper
+cx17-017;techniques-et-elements;qcm;Quelle princesse de Black Clover contrôle l’eau ?;probable : à recouper
+cx17-018;techniques-et-elements;qcm;Quelle technique de feu le clan Uchiha enseigne-t-il ?;probable : à recouper
+cx17-019;techniques-et-elements;qcm;Quel démon de Yu Yu Hakusho maîtrise les flammes ?;probable : à recouper
+cx17-021;techniques-et-elements;slider;Combien d’éléments de base compte la tradition japonaise des cinq éléments ?;probable : à recouper
+cx17-022;techniques-et-elements;intrus;Lequel de ces personnages ne contrôle pas le feu ?;probable : à recouper
+cx17-023;techniques-et-elements;multi;Lesquels de ces personnages manient le feu ? (plusieurs bonnes réponses);probable : à recouper
+cx17-024;techniques-et-elements;assoc;Associe chaque personnage à son élément.;probable : à recouper
+cx17-025;techniques-et-elements;qui;Qui suis-je ? 1. Je suis un alchimiste. 2. Je porte des gants. 3. Je contrôle les flammes.;probable : à recouper
+cx17-026;techniques-et-elements;qui;Qui suis-je ? 1. Je suis un ninja. 2. Je contrôle le sable. 3. Je porte une gourde.;probable : à recouper
+cx17-027;techniques-et-elements;qui;Qui suis-je ? 1. Je suis un amiral. 2. Je maîtrise la glace. 3. Mon nom signifie « faisan bleu ».;probable : à recouper
+cx18-001;armes-a-feu;qcm;Quel chasseur de primes de Cowboy Bebop manie un pistolet ?;probable : à recouper
+cx18-002;armes-a-feu;qcm;Quelle tireuse de Black Lagoon porte deux pistolets ?;probable : à recouper
+cx18-003;armes-a-feu;qcm;Quel pistolero de Trigun est surnommé « le Typhon humanoïde » ?;probable : à recouper
+cx18-004;armes-a-feu;qcm;Quelle arme Nicholas D. Wolfwood transporte-t-il ?;probable : à recouper
+cx18-005;armes-a-feu;qcm;Quel tireur de Lupin III accompagne le voleur ?;probable : à recouper
+cx18-006;armes-a-feu;qcm;Quel samouraï fait partie de la bande de Lupin III ?;probable : à recouper
+cx18-007;armes-a-feu;qcm;Quel pistolet est l’arme emblématique de Lupin III ?;probable : à recouper
+cx18-008;armes-a-feu;qcm;Quel vampire de Hellsing manie un pistolet géant ?;probable : à recouper
+cx18-009;armes-a-feu;qcm;Quelle policière de Ghost in the Shell est cyborg et experte en armes ?;probable : à recouper
+cx18-010;armes-a-feu;qcm;Quel est le surnom de Motoko Kusanagi ?;probable : à recouper
+cx18-011;armes-a-feu;qcm;Quel personnage de Gunsmith Cats chasse les primes à Chicago ?;probable : à recouper
+cx18-012;armes-a-feu;qcm;Quel héros de Gungrave est un ancien mafieux ressuscité ?;probable : à recouper
+cx18-013;armes-a-feu;qcm;Quel héros de Black Cat est un ancien assassin devenu chasseur de primes ?;probable : à recouper
+cx18-014;armes-a-feu;vf;Alucard sert l’organisation Hellsing.;probable : à recouper
+cx18-015;armes-a-feu;vf;Revy est un chasseur de primes dans Cowboy Bebop.;probable : à recouper
+cx18-016;armes-a-feu;vf;Jigen est un tireur d’élite.;probable : à recouper
+cx18-017;armes-a-feu;slider;Combien de pistolets Revy porte-t-elle d’habitude ?;probable : à recouper
+cx18-018;armes-a-feu;intrus;Lequel de ces personnages ne manie pas d’arme à feu ?;probable : à recouper
+cx18-019;armes-a-feu;multi;Lesquels de ces personnages manient une arme à feu ? (plusieurs bonnes réponses);probable : à recouper
+cx18-020;armes-a-feu;assoc;Associe chaque personnage à son œuvre.;probable : à recouper
+cx18-021;armes-a-feu;ordre;Remets ces séries dans l’ordre de début.;probable : à recouper
+cx18-022;armes-a-feu;qui;Qui suis-je ? 1. Je suis un pistolero. 2. Je porte un manteau rouge. 3. Je suis pacifiste.;probable : à recouper
+cx18-023;armes-a-feu;qui;Qui suis-je ? 1. Je suis une tireuse. 2. Je suis surnommée « Two Hands ». 3. Je travaille à Roanapur.;probable : à recouper
+cx28-001;armes-a-feu;qcm;Qui est l’auteur de Hellsing ?;probable : à recouper
+cx28-002;armes-a-feu;qcm;Qui est l’auteur de Black Lagoon ?;probable : à recouper
+cx28-003;armes-a-feu;qcm;Qui est l’auteur de Trigun ?;probable : à recouper
+cx28-004;armes-a-feu;qcm;Qui est le créateur de Lupin III ?;probable : à recouper
+cx28-005;armes-a-feu;qcm;Quel tueur à gages est le héros de Golgo 13 ?;probable : à recouper
+cx28-006;armes-a-feu;qcm;Quel auteur a créé Golgo 13 ?;probable : à recouper
+cx28-008;armes-a-feu;qcm;Quelle compositrice a signé la musique de Cowboy Bebop ?;probable : à recouper
+cx28-009;armes-a-feu;vf;Hellsing est l’œuvre de Kōta Hirano.;probable : à recouper
+cx28-010;armes-a-feu;vf;Lupin III a été créé par Takao Saitō.;probable : à recouper
+cx28-011;armes-a-feu;vf;Black Lagoon se déroule à Roanapur.;probable : à recouper
+cx28-012;armes-a-feu;slider;En quelle année Golgo 13 est-il publié pour la première fois ?;probable : à recouper
+cx28-013;armes-a-feu;intrus;Lequel de ces mangas ne met pas en scène des armes à feu ?;probable : à recouper
+cx28-014;armes-a-feu;assoc;Associe chaque œuvre à son auteur.;probable : à recouper
+cx20-001;ecoles-et-lieux;qcm;Dans quelle école étudie Izuku Midoriya ?;probable : à recouper
+cx20-002;ecoles-et-lieux;qcm;Quelle classe Midoriya intègre-t-il à U.A. ?;probable : à recouper
+cx20-004;ecoles-et-lieux;qcm;Quelle académie forme les ninjas de Konoha ?;probable : à recouper
+cx20-007;ecoles-et-lieux;qcm;Quelle académie Lelouch fréquente-t-il dans Code Geass ?;probable : à recouper
+cx20-008;ecoles-et-lieux;qcm;Quelle académie forme les exorcistes de Blue Exorcist ?;probable : à recouper
+cx20-009;ecoles-et-lieux;qcm;Quelle école internationale de sorcellerie est le décor de Little Witch Academia ?;probable : à recouper
+cx20-010;ecoles-et-lieux;qcm;Quelle académie forme les meisters et leurs armes dans Soul Eater ?;probable : à recouper
+cx20-014;ecoles-et-lieux;qui;Qui suis-je ? 1. Je suis une école de héros. 2. Je forme de jeunes surdoués. 3. Mon directeur est une souris.;probable : à recouper
+cx20-016;ecoles-et-lieux;vf;Dans Assassination Classroom, la classe 3-E regroupe les meilleurs élèves du collège.;probable : à recouper
+cx20-017;ecoles-et-lieux;vf;Dans Code Geass, l’académie Ashford est située en Europe.;probable : à recouper
+cx20-018;ecoles-et-lieux;vf;Dans Soul Eater, Shibusen est dirigée par Shinigami-sama.;probable : à recouper
+cx20-019;ecoles-et-lieux;vf;Dans Blue Exorcist, Rin Okumura étudie à l’Académie de la Vraie Croix.;probable : à recouper
+cx21-001;ecoles-et-lieux;qcm;Comment s’appelle le village natal de Naruto ?;probable : à recouper
+cx21-002;ecoles-et-lieux;qcm;Dans quel pays se trouve le village de Konoha ?;probable : à recouper
+cx21-003;ecoles-et-lieux;qcm;Quelle ville fictive est le décor de Bleach ?;probable : à recouper
+cx21-004;ecoles-et-lieux;qcm;Comment s’appelle l’au-delà de Bleach ?;probable : à recouper
+cx21-005;ecoles-et-lieux;qcm;Quel monde parallèle de Bleach est habité par les Hollows ?;probable : à recouper
+cx21-006;ecoles-et-lieux;qcm;Comment s’appelle l’océan que Luffy traverse en quête du One Piece ?;probable : à recouper
+cx21-007;ecoles-et-lieux;qcm;Quelle chaîne montagneuse divise les mers dans One Piece ?;probable : à recouper
+cx21-008;ecoles-et-lieux;qcm;Quel pays est le décor de Fullmetal Alchemist ?;probable : à recouper
+cx21-009;ecoles-et-lieux;qcm;Quel pays situé à l’est d’Amestris, au-delà du désert, apparaît dans Fullmetal Alchemist ?;probable : à recouper
+cx21-010;ecoles-et-lieux;qcm;Comment s’appelle la planète d’origine des Namekiens ?;probable : à recouper
+cx21-011;ecoles-et-lieux;qcm;Comment s’appelle la planète des Saiyans ?;probable : à recouper
+cx21-012;ecoles-et-lieux;qcm;Quel quartier de Tokyo est célèbre pour ses mangas et animés ?;probable : à recouper
+cx21-013;ecoles-et-lieux;qcm;Quelle ville est le décor de Death Note ?;probable : à recouper
+cx21-014;ecoles-et-lieux;qcm;Comment s’appelle l’île où Gon grandit dans Hunter × Hunter ?;probable : à recouper
+cx21-015;ecoles-et-lieux;qcm;Quelle immense tour de combat Gon et Killua affrontent-ils dans Hunter × Hunter ?;probable : à recouper
+cx21-016;ecoles-et-lieux;qcm;Quelle ville est le cadre de Spy × Family ?;probable : à recouper
+cx21-017;ecoles-et-lieux;qcm;Quelle cité futuriste est au cœur d’Akira ?;probable : à recouper
+cx21-018;ecoles-et-lieux;intrus;Lequel de ces lieux n’appartient pas à Naruto ?;probable : à recouper
+cx21-019;ecoles-et-lieux;multi;Lesquels de ces lieux appartiennent à One Piece ? (plusieurs bonnes réponses);probable : à recouper
+cx21-020;ecoles-et-lieux;assoc;Associe chaque lieu à son œuvre.;probable : à recouper
+cx21-021;ecoles-et-lieux;qui;Qui suis-je ? 1. Je suis un village caché. 2. Je suis entouré de forêts. 3. Mon symbole est une feuille.;probable : à recouper
+cx21-022;ecoles-et-lieux;qui;Qui suis-je ? 1. Je suis une ville japonaise fictive. 2. Je suis protégée par des shinigamis. 3. Mon héros porte une épée.;probable : à recouper
+cx21-023;ecoles-et-lieux;vf;Dans Naruto, Konoha se trouve dans le pays de l’Eau.;probable : à recouper
+cx21-024;ecoles-et-lieux;vf;Dans One Piece, la Red Line est une chaîne montagneuse qui encercle le monde.;probable : à recouper
+cx21-025;ecoles-et-lieux;vf;Dans Hunter × Hunter, Gon a grandi dans une grande métropole.;probable : à recouper
+cx21-026;ecoles-et-lieux;vf;Dans Dragon Ball, la planète Vegeta a été détruite par Freezer.;probable : à recouper
+cx22-001;mondes-extremes-et-temps;qcm;Dans quelle œuvre l’humanité est-elle pétrifiée pendant des milliers d’années ?;probable : à recouper
+cx22-002;mondes-extremes-et-temps;qcm;Combien d’années l’humanité reste-t-elle pétrifiée dans Dr. Stone ?;probable : à recouper
+cx22-003;mondes-extremes-et-temps;qcm;Quel est le mur le plus extérieur de L’Attaque des Titans ?;probable : à recouper
+cx22-004;mondes-extremes-et-temps;qcm;Combien de murs concentriques protègent l’humanité dans L’Attaque des Titans ?;probable : à recouper
+cx22-005;mondes-extremes-et-temps;qcm;Quel est le nom du gouffre au centre de Made in Abyss ?;probable : à recouper
+cx22-006;mondes-extremes-et-temps;qcm;Comment appelle-t-on les explorateurs de l’Abysse dans Made in Abyss ?;probable : à recouper
+cx22-007;mondes-extremes-et-temps;qcm;Quel héros de Ken le Survivant pratique le Hokuto Shinken ?;probable : à recouper
+cx22-008;mondes-extremes-et-temps;qcm;Qui est le frère aîné et rival de Kenshirō ?;probable : à recouper
+cx22-009;mondes-extremes-et-temps;qcm;Dans quelle série les robots géants affrontent-ils les anges ?;probable : à recouper
+cx22-010;mondes-extremes-et-temps;qcm;Qui est l’auteur de Nausicaä de la Vallée du Vent ?;probable : à recouper
+cx22-011;mondes-extremes-et-temps;qcm;Quelle jungle toxique dévore le monde de Nausicaä ?;probable : à recouper
+cx22-012;mondes-extremes-et-temps;qcm;Quel héros de Gantz est entraîné dans un jeu mortel ?;probable : à recouper
+cx22-013;mondes-extremes-et-temps;qcm;Dans quelle série des humains sont-ils chassés par des géants cannibales ?;probable : à recouper
+cx22-015;mondes-extremes-et-temps;vf;Made in Abyss se déroule au sommet d’une montagne.;probable : à recouper
+cx22-017;mondes-extremes-et-temps;intrus;Lequel de ces mondes n’est pas post-apocalyptique ?;probable : à recouper
+cx22-018;mondes-extremes-et-temps;multi;Lesquels de ces univers sont post-apocalyptiques ? (plusieurs bonnes réponses);probable : à recouper
+cx22-019;mondes-extremes-et-temps;assoc;Associe chaque œuvre à son créateur.;probable : à recouper
+cx22-020;mondes-extremes-et-temps;ordre;Remets ces œuvres dans l’ordre de début.;probable : à recouper
+cx22-021;mondes-extremes-et-temps;qui;Qui suis-je ? 1. Je suis un jeune scientifique. 2. Je me réveille après 3 700 ans. 3. Je reconstruis la civilisation.;probable : à recouper
+cx22-022;mondes-extremes-et-temps;qui;Qui suis-je ? 1. Je suis une jeune fille. 2. Je descends dans un gouffre. 3. Mon compagnon est un robot.;probable : à recouper
+cx23-001;mondes-extremes-et-temps;qcm;"Quel scientifique de Steins;Gate se fait appeler Hououin Kyōma ?";probable : à recouper
+cx23-002;mondes-extremes-et-temps;qcm;"Quel appareil de Steins;Gate permet d’envoyer des messages dans le passé ?";probable : à recouper
+cx23-003;mondes-extremes-et-temps;qcm;"Quelle jeune neuroscientifique de Steins;Gate travaille sur le cerveau ?";probable : à recouper
+cx23-004;mondes-extremes-et-temps;qcm;Quel jeune homme de Tokyo Revengers voyage douze ans dans le passé ?;probable : à recouper
+cx23-005;mondes-extremes-et-temps;qcm;Quelle bande Takemichi rejoint-il dans le passé ?;probable : à recouper
+cx23-006;mondes-extremes-et-temps;qcm;Quel pouvoir de Re:Zero permet à Subaru de revenir en arrière après sa mort ?;probable : à recouper
+cx23-007;mondes-extremes-et-temps;qcm;Qui est l’auteur de la série de light novels Re:Zero ?;probable : à recouper
+cx23-008;mondes-extremes-et-temps;qcm;Quel est le nom de la jeune fille aux cheveux argentés de Re:Zero ?;probable : à recouper
+cx23-009;mondes-extremes-et-temps;qcm;Quel héros de Erased retourne dans son enfance pour sauver ses camarades ?;probable : à recouper
+cx23-010;mondes-extremes-et-temps;qcm;Quel est le titre de la série Erased en japonais ?;probable : à recouper
+cx23-011;mondes-extremes-et-temps;qcm;Quel film de Makoto Shinkai parle d’un échange de corps ?;probable : à recouper
+cx23-012;mondes-extremes-et-temps;qcm;Quel film de Mamoru Hosoda parle d’une jeune fille qui saute dans le temps ?;probable : à recouper
+cx23-013;mondes-extremes-et-temps;qcm;Quel titre original porte le film La Traversée du temps ?;probable : à recouper
+cx23-014;mondes-extremes-et-temps;qcm;Quel robot du futur voyage dans le passé de Nobita ?;probable : à recouper
+cx23-015;mondes-extremes-et-temps;qcm;Quel héros de Dragon Ball Z voyage dans le passé à bord d’une machine ?;probable : à recouper
+cx23-016;mondes-extremes-et-temps;qcm;Quelle machine permet à Trunks de voyager dans le temps ?;probable : à recouper
+cx23-017;mondes-extremes-et-temps;vf;Erased est une histoire de voyage dans le temps.;probable : à recouper
+cx23-018;mondes-extremes-et-temps;slider;En quelle année est sorti le film Your Name au Japon ?;probable : à recouper
+cx23-019;mondes-extremes-et-temps;intrus;Laquelle de ces œuvres n’est pas centrée sur le voyage dans le temps ?;probable : à recouper
+cx23-020;mondes-extremes-et-temps;multi;Lesquelles de ces œuvres sont centrées sur le voyage dans le temps ou les boucles ? (plusieurs bonnes réponses);probable : à recouper
+cx23-021;mondes-extremes-et-temps;assoc;Associe chaque héros à son œuvre.;probable : à recouper
+cx23-022;mondes-extremes-et-temps;ordre;Remets ces œuvres dans l’ordre de première sortie.;probable : à recouper
+cx23-023;mondes-extremes-et-temps;qui;Qui suis-je ? 1. Je suis un savant fou. 2. Mon laboratoire est un appartement. 3. Je réécris le futur.;probable : à recouper
+cx23-024;mondes-extremes-et-temps;qui;Qui suis-je ? 1. Je suis un jeune homme. 2. Je meurs et je recommence. 3. J’aime une demi-elfe.;probable : à recouper
+cx26-004;cuisine-et-repas;qcm;Quel jeune héros de Food Wars veut devenir un grand chef ?;probable : à recouper
+cx26-005;cuisine-et-repas;qcm;Quelle école de cuisine est au cœur de Food Wars ?;probable : à recouper
+cx26-006;cuisine-et-repas;qcm;Quel est le nom de la cuisinière à la langue divine de Food Wars ?;probable : à recouper
+cx26-007;cuisine-et-repas;qcm;Quel chef de One Piece cuisine pour l’équipage de Luffy ?;probable : à recouper
+cx26-008;cuisine-et-repas;qcm;Quel est le rêve de Sanji ?;probable : à recouper
+cx26-009;cuisine-et-repas;qcm;Quel plat Luffy adore-t-il par-dessus tout ?;probable : à recouper
+cx26-010;cuisine-et-repas;qcm;Quel plat Naruto adore-t-il ?;probable : à recouper
+cx26-011;cuisine-et-repas;qcm;Quelle boisson sucrée Gintoki boit-il souvent ?;probable : à recouper
+cx26-012;cuisine-et-repas;qcm;Quel dessert Gintoki adore-t-il particulièrement ?;probable : à recouper
+cx26-013;cuisine-et-repas;qcm;Quelle fillette de Spy × Family adore les cacahuètes ?;probable : à recouper
+cx26-014;cuisine-et-repas;qcm;Quel manga suit une lycéenne passionnée de ramen ?;probable : à recouper
+cx26-015;cuisine-et-repas;qcm;Quel plat est un bol de riz garni de poisson cru ?;probable : à recouper
+cx26-016;cuisine-et-repas;qcm;Quelle boulette de pâte garnie de poulpe est un plat de rue japonais ?;probable : à recouper
+cx26-017;cuisine-et-repas;qcm;Quel gâteau de riz pilé est traditionnellement mangé pour le Nouvel An au Japon ?;probable : à recouper
+cx26-018;cuisine-et-repas;qcm;Quel bouillon japonais sert de base à la soupe miso ?;probable : à recouper
+cx26-023;cuisine-et-repas;intrus;Lequel de ces plats n’est pas japonais ?;probable : à recouper
+cx26-024;cuisine-et-repas;multi;Lesquels de ces plats sont japonais ? (plusieurs bonnes réponses);probable : à recouper
+cx26-025;cuisine-et-repas;assoc;Associe chaque personnage à son plat favori.;probable : à recouper
+cx26-027;cuisine-et-repas;qui;Qui suis-je ? 1. Je suis un cuisinier de pirates. 2. Je suis galant. 3. Je rêve du All Blue.;probable : à recouper
+cx30-001;cuisine-et-repas;qcm;Quel est le métier de Komatsu dans Toriko ?;probable : à recouper
+cx30-002;cuisine-et-repas;qcm;Quelle pâte de soja fermentée sert à préparer une soupe japonaise ?;probable : à recouper
+cx30-003;cuisine-et-repas;qcm;Quel plat est un poisson cru finement tranché ?;probable : à recouper
+cx30-004;cuisine-et-repas;qcm;Quel nom porte la cuisine végétarienne des temples bouddhistes japonais ?;probable : à recouper
+cx30-005;cuisine-et-repas;qcm;Quelle méthode de cuisine fait griller viandes et légumes sur une plaque chaude ?;probable : à recouper
+cx30-006;cuisine-et-repas;qcm;Que signifie « meshi » dans le titre Dungeon Meshi ?;probable : à recouper
+cx30-007;cuisine-et-repas;qcm;Quelle sœur du héros est avalée par un dragon rouge au début de Dungeon Meshi ?;probable : à recouper
+cx30-008;cuisine-et-repas;qcm;Comment s’appellent les duels culinaires de Food Wars ?;probable : à recouper
+cx30-009;cuisine-et-repas;qcm;Quelle algue séchée entoure les maki ?;probable : à recouper
+cx30-010;cuisine-et-repas;qcm;Quel condiment vert et piquant accompagne les sushis ?;probable : à recouper
+cx30-011;cuisine-et-repas;qcm;Comment appelle-t-on la sauce de soja en japonais ?;probable : à recouper
+cx30-012;cuisine-et-repas;qcm;Comment s’appelle la boisson japonaise à base de riz fermenté ?;probable : à recouper
+cx30-013;cuisine-et-repas;qcm;Comment s’appelle la boîte-repas japonaise ?;probable : à recouper
+cx30-014;cuisine-et-repas;qcm;Quelle formule dit-on au Japon avant de manger ?;probable : à recouper
+cx30-015;cuisine-et-repas;qcm;Quelle galette garnie de chou, surnommée « pizza japonaise », est cuite sur une plaque ?;probable : à recouper

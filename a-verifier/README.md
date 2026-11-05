@@ -88,3 +88,35 @@ La banque passe de 6 954 à **5 341 questions** : on préfère moins de question
 - Éditeurs français (Pika, Kazé, Kurokawa…) : non vérifiés sur les pages consultées, sauf Kana pour Yu Yu Hakusho. À recouper avant d’en faire une règle.
 - Le titre français « Valkyrie Apocalypse » vient de ta demande ; il n’a pas été recoupé avec un éditeur.
 - Les thèmes sont plus petits (31 à 51 questions) que les thèmes historiques (50 à 70) : les séries ont été choisies pour la variété, pas pour la profondeur.
+
+## Mise à jour v0.11.0 — 15 thèmes transversaux (novembre 2026)
+
+**+668 questions** (banque : 6 525 questions, 111 thèmes) et un nouveau royaume, « Archétypes et figures du manga » : des thèmes qui traversent les séries (héros sans pouvoir, cheveux blancs, démons, sportifs, armes à feu, cuisine…).
+
+| Thème | Questions | Dont recoupées |
+|---|---|---|
+| Héros sans don et héros cabossés | 54 | 29 |
+| Orphelins, familles et amitiés | 50 | 13 |
+| Cheveux blancs et argentés | 35 | 15 |
+| Démons, esprits et compagnons | 51 | 10 |
+| Mentors et professeurs | 33 | 7 |
+| Rivaux et anti-héros | 48 | 12 |
+| Génies et stratèges | 38 | 0 |
+| Sportifs et boxeurs | 48 | 22 |
+| Équipes, duos et capitaines | 37 | 26 |
+| Arts martiaux et épées | 54 | 4 |
+| Techniques et éléments | 56 | 5 |
+| Armes à feu et pistoleros | 36 | 0 |
+| Écoles et lieux | 44 | 6 |
+| Mondes extrêmes et voyages dans le temps | 44 | 0 |
+| Cuisine et repas | 40 | 6 |
+
+**Méthode** : seules 155 questions sont marquées « vérifié » (dates, magazines, studios, auteurs, nombre de tomes et faits de personnages lus sur les pages Wikipédia consultées). Les 513 autres sont « probables » : faits canoniques de personnages, d’armes et de techniques rédigés de ma connaissance générale, **non recoupés ligne à ligne**. Leur liste est dans `nouveaux-themes-v0.11.0-probables.csv`.
+
+**Points de prudence**
+- **Couleurs de cheveux** : les pages Wikipédia consultées ne les indiquent pas. Toutes les questions sur les cheveux sont « probables », y compris celles du thème « Cheveux blancs et argentés ».
+- **Faits du monde réel** (judo, karaté, tamahagane, forgerons Masamune et Muramasa, cuisine japonaise : miso, dashi, mochi…) : connaissances générales, non recoupées.
+- Les noms français (Tortue Géniale, Sacha, Kaiō du Nord…) suivent l’usage courant ; non vérifiés auprès des éditeurs.
+- Armes à feu : les armes de tir à l’élastique ou à l’arc (Usopp) ont été exclues du thème.
+- Environ 55 questions trop évidentes (réponse dans l’énoncé, vrai/faux triviaux) ou ambiguës ont été retirées pendant la relecture ; les doublons entre thèmes proches ont été réduits mais pas tous supprimés.
+- Les 30 idées de départ ont été regroupées en 15 thèmes : deux idées proches partagent un même thème.
