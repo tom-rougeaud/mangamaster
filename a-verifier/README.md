@@ -120,3 +120,14 @@ La banque passe de 6 954 à **5 341 questions** : on préfère moins de question
 - Armes à feu : les armes de tir à l’élastique ou à l’arc (Usopp) ont été exclues du thème.
 - Environ 55 questions trop évidentes (réponse dans l’énoncé, vrai/faux triviaux) ou ambiguës ont été retirées pendant la relecture ; les doublons entre thèmes proches ont été réduits mais pas tous supprimés.
 - Les 30 idées de départ ont été regroupées en 15 thèmes : deux idées proches partagent un même thème.
+
+## Mise à jour v0.11.1 — recoupement avec Wikipédia
+
+Les 15 thèmes « Archétypes et figures du manga » (667 questions) ont été recoupés avec les pages Wikipédia des œuvres.
+
+- **Vérifié : 308 questions** (155 à la v0.11.0). **Probable : 359** (liste dans `nouveaux-themes-probables.csv`).
+- Sont marquées « vérifié » uniquement les questions dont la réponse figure sur une page consultée.
+- **Corrigées après recoupement** : Gon est élevé par Mito (sa grand-mère) ; Zoro s’entraîne avec Mihawk pendant les deux ans de séparation ; Sakuragi appelle Akagi « Gori » ; Kaneki est mi-goule (le lien entre torture et cheveux blancs n’est pas dans la page) ; Asta est élevé dans une église ; Julius est le 28e Roi-Mage ; Raoh est le frère adoptif aîné de Kenshirō ; Evangelion : pilotes de mecha biomécaniques face aux Anges ; une cinquantaine d’autres reformulations.
+- Environ 100 questions ambiguës, fausses ou trop évidentes avaient déjà été retirées avant cette version.
+- **Restent « probable »** : couleurs de cheveux (Wikipédia n’en parle pas toujours), armes et techniques (Wado Ichimonji, Sandai Kitetsu, Jajanken, Hollow Purple…), faits culturels japonais (cuisine, arts martiaux), noms français, détails de certaines séries (Captain Tsubasa, Gintama, Dr. Stone…).
+- Rien à modifier dans Supabase.
