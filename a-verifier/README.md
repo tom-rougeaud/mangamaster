@@ -131,3 +131,13 @@ Les 15 thèmes « Archétypes et figures du manga » (667 questions) ont été r
 - Environ 100 questions ambiguës, fausses ou trop évidentes avaient déjà été retirées avant cette version.
 - **Restent « probable »** : couleurs de cheveux (Wikipédia n’en parle pas toujours), armes et techniques (Wado Ichimonji, Sandai Kitetsu, Jajanken, Hollow Purple…), faits culturels japonais (cuisine, arts martiaux), noms français, détails de certaines séries (Captain Tsubasa, Gintama, Dr. Stone…).
 - Rien à modifier dans Supabase.
+
+## Mise à jour v0.11.2 — deuxième tour de recoupement (deux sources)
+
+Règle : une question n’est « vérifiée » que si **deux sources indépendantes** confirment la réponse (Wikipédia, Anime News Network, Britannica, TV Tropes, sites officiels, presse). Les miroirs de Wikipédia ne comptent que pour une source.
+
+- **Vérifié : 344 questions sur 649** (308 sur 667 à la v0.11.1). **Probable : 305** (liste dans `nouveaux-themes-probables.csv`).
+- Nouvellement vérifié : Silent Voice, Dororo, Hellsing, Black Lagoon (auteur, Roanapur), Golgo 13, Lupin III (créateur), Your Name, judo (Kanō), kendo (shinai), sumo (dohyō), aïkido (Ueshiba), Masamune (Kamakura), Muramasa, amiraux de One Piece (glace, magma, lumière), Muzan premier démon, Shibusen, Luna Nova.
+- **Corrigé** : Jiraiya entraîne Naruto pendant deux ans et demi (et non trois ans) ; Naruto apprend le Rasengan auprès de Jiraiya (il ne l’invente pas) ; Scar est un Ishvalan qui traque les alchimistes d’État (l’expression « tueur d’alchimistes » n’est pas dans les sources) ; Near : la précision sur ses cheveux a été retirée (blond platine dans le manga, blanc dans l’anime).
+- **Retiré** (trop évident, redondant ou douteux) : 18 questions, dont la couleur de l’arme de Lupin (Walther P38 ou PPK selon les sources), le nombre de joueurs au basket et au volley, la ville de Death Note, et plusieurs doublons sur Silent Voice, Revy, Jajanken et Chidori.
+- **Limite** : la recherche ne renvoie que des liens et beaucoup de pages sont inaccessibles ; de nombreux faits restent donc « probables » faute de deuxième source.
