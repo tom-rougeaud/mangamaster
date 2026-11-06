@@ -4201,7 +4201,7 @@ var qrcode = function() {
    Les textes français utilisent l’apostrophe typographique ’.
 ═══════════════════════════════════════════════════════════════ */
 "use strict";
-var MM_VERSION="0.11.2";
+var MM_VERSION="0.11.3";
 function $(id){return document.getElementById(id);}
 function $$(sel,root){return [].slice.call((root||document).querySelectorAll(sel));}
 function esc(s){return String(s===undefined||s===null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
@@ -5107,8 +5107,33 @@ function histKey(q){return q.qid||q.q;}
    3. pas plus de deux questions du même type d’affilée quand c’est évitable ;
    4. part des questions « classiques » (QCM + vrai/faux) entre 35 % et 45 % de la salve, et formats répartis équitablement, quand les types cochés le permettent. */
 var NEW_T={i:1,h:1,w:1,m:1,o:1,a:1},CLASSIC_T={c:1,v:1},CLASSIC_MIN=0.35,CLASSIC_MAX=0.45;
+/* ─── v0.11.3 : jamais deux questions « jumelles » dans une même partie ───
+   Deux questions sont jumelles si elles ont la même bonne réponse (QCM, intrus, texte à trous, qui suis-je),
+   si la réponse de l’une figure dans l’énoncé de l’autre, ou si leurs énoncés partagent trop de mots-clés. */
+var STOPW=("dans avec pour quel quelle quels quelles lequel laquelle lesquels lesquelles parmi cette cette sont sont etre fait fois plus tres aussi entre sous leur leurs celui celle ceux cela comme mais donc ainsi dont chez vers apres avant depuis quand comment combien serie manga anime personnage personnages heros heroine heroines film saga oeuvre selon nest nom appelle appelle porte portent jeune jeunes premier premiere dernier derniere suis sont quoi quelle tout toute tous toutes elle elles ils eux mon mes ton tes son ses notre votre vous nous cest ete etait avoir a-t-il a-t-elle est-il est-elle que qui quoi dont ou ni").split(" ");
+var STOPSET={};STOPW.forEach(function(w){STOPSET[w]=1;});
+function nrmT(s){s=String(s||"").toLowerCase();s=s.normalize?s.normalize("NFD").replace(/[\u0300-\u036f]/g,""):s;return s.replace(/[’']/g," ").replace(/[^a-z0-9]+/g," ").replace(/^ +| +$/g,"");}
+function nrmAns(s){return nrmT(s).replace(/^(le|la|les|l|un|une|des|du|de|d) /,"");}
+function twinSig(raw){
+  if(raw._sig)return raw._sig;
+  var ans=null;
+  if((raw.t==="c"||raw.t==="i"||raw.t==="h"||raw.t==="w")&&raw.c&&raw.c[raw.r]!=null)ans=nrmAns(raw.c[raw.r]);
+  var txt=nrmT(raw.q),tok={},arr=txt.split(" ");
+  arr.forEach(function(w){if(w.length>=4&&!STOPSET[w])tok[w]=1;});
+  var sg={ans:ans,txt:" "+txt+" ",tok:tok,nt:Object.keys(tok).length};
+  raw._sig=sg;return sg;
+}
+function twins(a,b){
+  if(a.ans&&b.ans&&a.ans===b.ans)return true;
+  if(a.ans&&a.ans.length>=5&&b.txt.indexOf(" "+a.ans+" ")>=0)return true;
+  if(b.ans&&b.ans.length>=5&&a.txt.indexOf(" "+b.ans+" ")>=0)return true;
+  var sh=0;for(var k in a.tok)if(b.tok[k])sh++;
+  if(sh>=3)return true;
+  var un=a.nt+b.nt-sh;return un>0&&a.nt>=3&&b.nt>=3&&sh/un>=0.5;
+}
 function drawQuestions(itemIds,n,ctx,seed,avoid){
-  var H=normHist(avoid),r=mulberry32(seed>>>0),out=[],used={},cnt={};
+  var H=normHist(avoid),r=mulberry32(seed>>>0),out=[],used={},cnt={},sigs=[],relax=false;
+  if(ctx&&ctx.have)ctx.have.forEach(function(h){var rw=QBY_ID[h.qid];if(rw)sigs.push(twinSig(rw));});
   var lists=[];
   itemIds.forEach(function(id){
     var it=ITEM_BY_ID[id];if(!it||!themeOk(it,ctx))return;
@@ -5132,7 +5157,12 @@ function drawQuestions(itemIds,n,ctx,seed,avoid){
         var A=L.qs[f];
         while(L.pos[f]<A.length&&used[A[L.pos[f]].q.i])L.pos[f]++;
         if(L.pos[f]>=A.length)continue;
-        var c=A[L.pos[f]],w=A.length-L.pos[f],sc=(c.rank?100000+c.rank:0)+cnt[L.it.id]*1000+(tCnt[c.q.t]||0)*700+400*(1-Math.pow(r(),1/w));   /* v1.6 : chaque type déjà tiré pèse, pour que tous les formats cochés apparaissent */
+        var j=L.pos[f];
+        if(!relax){   /* première question qui n’a pas de jumelle déjà tirée (on regarde les 40 suivantes) */
+          while(j<A.length&&j<L.pos[f]+40&&(used[A[j].q.i]||sigs.some(function(sg){return twins(sg,twinSig(A[j].q));})))j++;
+          if(j>=A.length||j>=L.pos[f]+40)continue;
+        }
+        var c=A[j],w=A.length-j,sc=(c.rank?100000+c.rank:0)+cnt[L.it.id]*1000+(tCnt[c.q.t]||0)*700+400*(1-Math.pow(r(),1/w));   /* v1.6 : chaque type déjà tiré pèse, pour que tous les formats cochés apparaissent */
         var isCl=!!CLASSIC_T[c.q.t];
         if(isCl&&nCl+1>hiCl)sc+=50000;                        /* trop de classiques */
         if(!isCl&&(k+1-nCl)>n-loCl)sc+=50000;                 /* pas assez de classiques */
@@ -5140,8 +5170,8 @@ function drawQuestions(itemIds,n,ctx,seed,avoid){
         if(sc<bestS){bestS=sc;best={L:L,c:c,cl:isCl};}
       }
     });
-    if(!best)break;
-    var raw=best.c.q;used[raw.i]=1;cnt[best.L.it.id]++;lastT.push(raw.t);tCnt[raw.t]=(tCnt[raw.t]||0)+1;if(best.cl)nCl++;
+    if(!best){if(!relax){relax=true;continue;}break;}   /* plus de question sans jumelle : on complète quand même plutôt que de s’arrêter court */
+    var raw=best.c.q;used[raw.i]=1;sigs.push(twinSig(raw));relax=false;cnt[best.L.it.id]++;lastT.push(raw.t);tCnt[raw.t]=(tCnt[raw.t]||0)+1;if(best.cl)nCl++;
     out.push(buildQ(raw,best.L.it,r,isPari(raw,ctx)&&(!ctx.types[raw.t]||r()<0.2)));
   }
   /* v1.5 : un niveau choisi est respecté strictement (pas de complément avec les niveaux voisins) */
@@ -5688,7 +5718,7 @@ $("b-gen").addEventListener("click",function(){SND.unlock();askSpoil();});
 function replaceAt(i){
   var q=QS[i],avoid=recentSet(),here={};
   QS.forEach(function(x){avoid.n++;avoid.t[histKey(x)]=avoid.n+1;here[x.qid]=1;});
-  var ctx=drawCtx(),seed=(Date.now()^q.seed)>>>0,nq=null;
+  var ctx=drawCtx(),seed=(Date.now()^q.seed)>>>0,nq=null;ctx.have=QS.filter(function(x,k){return k!==i;});   /* le remplaçant ne doit pas être jumeau d’une autre question de la partie */
   [[q.id],P.sel].forEach(function(ids){
     if(nq)return;
     var c=drawQuestions(ids,Math.min(40,QBY_COUNT(ids,ctx)),ctx,seed,avoid).filter(function(x){return !here[x.qid];});
