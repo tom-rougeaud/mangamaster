@@ -4201,7 +4201,7 @@ var qrcode = function() {
    Les textes français utilisent l’apostrophe typographique ’.
 ═══════════════════════════════════════════════════════════════ */
 "use strict";
-var MM_VERSION="0.11.3";
+var MM_VERSION="0.11.4";
 function $(id){return document.getElementById(id);}
 function $$(sel,root){return [].slice.call((root||document).querySelectorAll(sel));}
 function esc(s){return String(s===undefined||s===null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
@@ -5753,7 +5753,9 @@ var G=null;
 var MAXP=MAX_PLAYERS;
 function studentUrl(code){
   var u=location.href.split("#")[0].split("?")[0];
-  u=/mj\.html$/i.test(u)?u.replace(/mj\.html$/i,"apprenti.html"):u.replace(/\/?$/,"/")+"apprenti.html";
+  /* Correctif v0.11.4 : la page du Sensei s’appelle sensei.html (et non plus mj.html). On remplace donc le nom
+     de fichier final, quel qu’il soit, par apprenti.html ; si l’adresse se termine par « / » ou n’a pas de fichier, on l’ajoute. */
+  u=/\.html?$/i.test(u)?u.replace(/[^\/]*$/,"apprenti.html"):u.replace(/\/?$/,"/")+"apprenti.html";
   return code?u+"?c="+code:u;
 }
 function shortUrl(){return studentUrl("").replace(/^https?:\/\//,"").replace(/\?.*$/,"");}
